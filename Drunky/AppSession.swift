@@ -704,439 +704,439 @@ let CrazyDares: [String] = [
 ]
 
 let RoleplayDares: [String] = [
-    "You’re a seductive bartender, and I’m a VIP customer. Flirt with me while making a drink.If you don’t put on a convincing show, take 4 sips.",
+    "You’re a seductive bartender, and I’m a VIP customer. Flirt with me while making a drink. If you don’t put on a convincing show, take 4 sips.",
     
-    "You’re a mysterious stranger at a masquerade ball, and you just caught my eye. Walk over to me and whisper a secret.If your performance isn’t sultry enough, take 3 sips.",
+    "You’re a mysterious stranger at a masquerade ball, and you just caught my eye. Walk over to me and whisper a secret. If your performance isn’t sultry enough, take 3 sips.",
     
-    "You’re a passionate artist, and I’m your muse. Give me a compliment that would make me want to pose for your painting.If it’s not convincing, take 3 sips.",
+    "You’re a passionate artist, and I’m your muse. Give me a compliment that would make me want to pose for your painting. If it’s not convincing, take 3 sips.",
     
-    "I’m a famous movie star, and you’re the director. Tell me how we’re going to perform our “love scene” for the movie.If it’s not hot enough, take 4 sips.",
+    "I’m a famous movie star, and you’re the director. Tell me how we’re going to perform our “love scene” for the movie. If it’s not hot enough, take 4 sips.",
     
-    "You’re a charming waiter, and I’m a highmaintenance customer. Convince me to order the most expensive drink.If you don’t persuade me, take 3 sips.",
+    "You’re a charming waiter, and I’m a highmaintenance customer. Convince me to order the most expensive drink. If you don’t persuade me, take 3 sips.",
     
-    "You’re a secret agent, and I’m the person who knows the info you need. Seduce me into giving you the intel.If you can’t get me to spill the beans, take 5 sips.",
+    "You’re a secret agent, and I’m the person who knows the info you need. Seduce me into giving you the intel. If you can’t get me to spill the beans, take 5 sips.",
     
-    "I’m a famous musician, and you’re my biggest fan. Serenade me with your best song.If you can’t make me swoon, take 4 sips.",
+    "I’m a famous musician, and you’re my biggest fan. Serenade me with your best song. If you can’t make me swoon, take 4 sips.",
     
-    "You’re a mysterious traveler in an exotic land, and I’m your local guide. Show me you’re not afraid to get a little lost in the moment.If you don’t impress me, take 3 sips.",
+    "You’re a mysterious traveler in an exotic land, and I’m your local guide. Show me you’re not afraid to get a little lost in the moment. If you don’t impress me, take 3 sips.",
     
-    "We’re two strangers in a waiting room, and the chemistry is undeniable. Kiss me on the cheek to start the conversation.If you can’t make it happen, take 4 sips.",
+    "We’re two strangers in a waiting room, and the chemistry is undeniable. Kiss me on the cheek to start the conversation. If you can’t make it happen, take 4 sips.",
     
-    "You’re a charming prince/princess, and I’m your love interest. Give me a passionate kiss or gesture to win my heart.If you hesitate, take 5 sips.",
+    "You’re a charming prince/princess, and I’m your love interest. Give me a passionate kiss or gesture to win my heart. If you hesitate, take 5 sips.",
     
-    "You’re a seductive pirate, and I’m your captured prisoner. Whisper in my ear about what I’m in for while you tie me to the mast.If you don’t make it steamy enough, take 4 sips.",
+    "You’re a seductive pirate, and I’m your captured prisoner. Whisper in my ear about what I’m in for while you tie me to the mast. If you don’t make it steamy enough, take 4 sips.",
     
-    "I’m a powerful CEO, and you’re my charming assistant. Give me a massage while making me feel special.If you don’t turn up the heat, take 3 sips.",
+    "I’m a powerful CEO, and you’re my charming assistant. Give me a massage while making me feel special. If you don’t turn up the heat, take 3 sips.",
     
-    "You’re a famous fashion designer, and I’m your model. Tell me how you want me to pose for your latest show.If you’re not convincing, take 3 sips.",
+    "You’re a famous fashion designer, and I’m your model. Tell me how you want me to pose for your latest show. If you’re not convincing, take 3 sips.",
     
-    "You’re a famous actor, and I’m your love interest in a movie. Perform our “passionate kiss” scene.If it’s not romantic enough, take 4 sips.",
+    "You’re a famous actor, and I’m your love interest in a movie. Perform our “passionate kiss” scene. If it’s not romantic enough, take 4 sips.",
     
-    "You’re an enchanted prince/princess, and I’m your rescued maiden. Give me a royal kiss to show your affection.If it’s not sincere, take 5 sips.",
+    "You’re an enchanted prince/princess, and I’m your rescued maiden. Give me a royal kiss to show your affection. If it’s not sincere, take 5 sips.",
     
-    "You’re a seductive genie, and I’m your master. Grant me a wish, but you have to seduce me to get your freedom.If you don’t convince me, take 4 sips.",
+    "You’re a seductive genie, and I’m your master. Grant me a wish, but you have to seduce me to get your freedom. If you don’t convince me, take 4 sips.",
     
-    "You’re a hot circus performer, and I’m a rich patron. Perform a seductive routine for me.If you don’t make me want to stay, take 3 sips.",
+    "You’re a hot circus performer, and I’m a rich patron. Perform a seductive routine for me. If you don’t make me want to stay, take 3 sips.",
     
-    "You’re a sexy secret agent, and I’m a rival who’s trying to escape. Kiss me to distract me and get the intel.If I escape, take 5 sips.",
+    "You’re a sexy secret agent, and I’m a rival who’s trying to escape. Kiss me to distract me and get the intel. If I escape, take 5 sips.",
     
-    "You’re a hot librarian, and I’m a bookworm who just needs a little attention. Flirt with me as you help me find a book.If you don’t make it spicy, take 3 sips.",
+    "You’re a hot librarian, and I’m a bookworm who just needs a little attention. Flirt with me as you help me find a book. If you don’t make it spicy, take 3 sips.",
     
-    "You’re a passionate chef, and I’m your guest. Feed me something delicious and whisper how much you want me to taste it.If you don’t make it tantalizing, take 4 sips.",
+    "You’re a passionate chef, and I’m your guest. Feed me something delicious and whisper how much you want me to taste it. If you don’t make it tantalizing, take 4 sips.",
     
     "You’re a seductive bartender, and I’m a regular who’s been coming in for weeks. What do you do to finally get me to notice you?If you don’t make it irresistible, take 4 sips.",
     
-    "You’re a charming detective, and I’m your suspect. Flirt with me while trying to get information.If you fail to seduce me into confessing, take 5 sips.",
+    "You’re a charming detective, and I’m your suspect. Flirt with me while trying to get information. If you fail to seduce me into confessing, take 5 sips.",
     
-    "You’re a mysterious stranger at a library, and I’m your cute librarian. You’ve come to check out books but end up checking me out instead.If you don’t get me to go along, take 4 sips.",
+    "You’re a mysterious stranger at a library, and I’m your cute librarian. You’ve come to check out books but end up checking me out instead. If you don’t get me to go along, take 4 sips.",
     
-    "You’re a famous photographer, and I’m your model. Tell me how you want me to pose for a steamy shoot.If you’re not persuasive enough, take 3 sips.",
+    "You’re a famous photographer, and I’m your model. Tell me how you want me to pose for a steamy shoot. If you’re not persuasive enough, take 3 sips.",
     
-    "You’re a dashing spy, and I’m your contact. Seduce me into giving you the secret code.If I don’t give you the code, take 5 sips.",
+    "You’re a dashing spy, and I’m your contact. Seduce me into giving you the secret code. If I don’t give you the code, take 5 sips.",
     
-    "I’m a celebrity, and you’re my personal assistant. You’re tasked with helping me get ready for an event, but you also want a little more...If you can’t turn it into a flirt fest, take 4 sips.",
+    "I’m a celebrity, and you’re my personal assistant. You’re tasked with helping me get ready for an event, but you also want a little more... If you can’t turn it into a flirt fest, take 4 sips.",
     
-    "You’re a charming photographer, and I’m your muse. Pose me in a suggestive way that makes me feel your attention.If you don’t make it alluring, take 3 sips.",
+    "You’re a charming photographer, and I’m your muse. Pose me in a suggestive way that makes me feel your attention. If you don’t make it alluring, take 3 sips.",
     
-    "You’re a passionate singer, and I’m your admirer. Serenade me with a sultry love song.If you don’t make me swoon, take 4 sips.",
+    "You’re a passionate singer, and I’m your admirer. Serenade me with a sultry love song. If you don’t make me swoon, take 4 sips.",
     
     "You’re a mysterious pirate, and I’m your captive. Flirt with me as you “decide my fate.”If you don’t keep me captivated, take 5 sips.",
     
-    "You’re a suave millionaire, and I’m your date for the evening. Take me on a lavish tour of your mansion, but add in some cheeky compliments.If I’m not impressed, take 4 sips.",
+    "You’re a suave millionaire, and I’m your date for the evening. Take me on a lavish tour of your mansion, but add in some cheeky compliments. If I’m not impressed, take 4 sips.",
     
-    "You’re a famous chef, and I’m your guest. Prepare a dish for me while giving me steamy eye contact and tempting remarks.If it’s not seductive enough, take 3 sips.",
+    "You’re a famous chef, and I’m your guest. Prepare a dish for me while giving me steamy eye contact and tempting remarks. If it’s not seductive enough, take 3 sips.",
     
-    "You’re a flirtatious magician, and I’m your audience. Perform a “magical” trick while using it as an excuse to get closer.If you don’t wow me, take 4 sips.",
+    "You’re a flirtatious magician, and I’m your audience. Perform a “magical” trick while using it as an excuse to get closer. If you don’t wow me, take 4 sips.",
     
-    "You’re a seductive masseuse, and I’m your client. Start the massage and work your way into a playful flirtation.If you don’t make it hot, take 5 sips.",
+    "You’re a seductive masseuse, and I’m your client. Start the massage and work your way into a playful flirtation. If you don’t make it hot, take 5 sips.",
     
-    "You’re a rogue thief, and I’m the unsuspecting victim. Flirt with me as you “steal” something from me.If you don’t make it convincing, take 4 sips.",
+    "You’re a rogue thief, and I’m the unsuspecting victim. Flirt with me as you “steal” something from me. If you don’t make it convincing, take 4 sips.",
     
-    "You’re a charming race car driver, and I’m your pit crew. Flirt with me while you prep for your big race.If you don’t win me over, take 3 sips.",
+    "You’re a charming race car driver, and I’m your pit crew. Flirt with me while you prep for your big race. If you don’t win me over, take 3 sips.",
     
-    "You’re a wealthy art collector, and I’m the artist you’ve been eyeing for a new piece. Persuade me to work for you in a more personal way.If I’m not intrigued, take 4 sips.",
+    "You’re a wealthy art collector, and I’m the artist you’ve been eyeing for a new piece. Persuade me to work for you in a more personal way. If I’m not intrigued, take 4 sips.",
     
-    "You’re a rock star, and I’m your groupie. Perform a mini concert just for me while giving me a lot of attention.If you don’t make it seductive, take 5 sips.",
+    "You’re a rock star, and I’m your groupie. Perform a mini concert just for me while giving me a lot of attention. If you don’t make it seductive, take 5 sips.",
     
-    "You’re a handsome pilot, and I’m your copilot. Flirt with me as we prepare for takeoff.If you can’t fly me high, take 3 sips.",
+    "You’re a handsome pilot, and I’m your copilot. Flirt with me as we prepare for takeoff. If you can’t fly me high, take 3 sips.",
     
-    "You’re a suave but dangerous criminal, and I’m your innocent victim. Flirt with me as you plan your escape.If you don’t seduce me, take 4 sips.",
+    "You’re a suave but dangerous criminal, and I’m your innocent victim. Flirt with me as you plan your escape. If you don’t seduce me, take 4 sips.",
     
-    "You’re a charming neighbor, and I’m the new person in the building. Invite me over for a “friendly” drink and add in some flirtation.If I don’t accept, take 3 sips.",
+    "You’re a charming neighbor, and I’m the new person in the building. Invite me over for a “friendly” drink and add in some flirtation. If I don’t accept, take 3 sips.",
     
-    "You’re a famous movie director, and I’m the actor auditioning for your latest film. Make the audition a bit more personal with some flirtatious direction.If I don’t fall for it, take 4 sips.",
+    "You’re a famous movie director, and I’m the actor auditioning for your latest film. Make the audition a bit more personal with some flirtatious direction. If I don’t fall for it, take 4 sips.",
     
-    "You’re a sexy alien, and I’m the human you’ve come to seduce for your experiment. Charm me with your outofthisworld ways.If you don’t succeed, take 5 sips.",
+    "You’re a sexy alien, and I’m the human you’ve come to seduce for your experiment. Charm me with your outofthisworld ways. If you don’t succeed, take 5 sips.",
     
-    "You’re a confident yoga instructor, and I’m your student. Get me into a seductive pose while giving me some sultry encouragement.If you don’t make it work, take 4 sips.",
+    "You’re a confident yoga instructor, and I’m your student. Get me into a seductive pose while giving me some sultry encouragement. If you don’t make it work, take 4 sips.",
     
-    "You’re a famous dancer, and I’m your partner. Seduce me with a dance that’s as fiery as your moves.If you don’t get me to join in, take 5 sips.",
+    "You’re a famous dancer, and I’m your partner. Seduce me with a dance that’s as fiery as your moves. If you don’t get me to join in, take 5 sips.",
     
-    "You’re a professional swimmer, and I’m your competitor. Flirt with me while trying to distract me during the race.If you can’t distract me, take 3 sips.",
+    "You’re a professional swimmer, and I’m your competitor. Flirt with me while trying to distract me during the race. If you can’t distract me, take 3 sips.",
     
-    "You’re an exotic bartender, and I’m a tourist. Serve me a drink while giving me an irresistible smile.If I don’t respond, take 4 sips.",
+    "You’re an exotic bartender, and I’m a tourist. Serve me a drink while giving me an irresistible smile. If I don’t respond, take 4 sips.",
     
-    "You’re a personal trainer, and I’m your client. Get me to “work hard” in the gym while sneaking in some flirtation.If I’m not interested, take 4 sips.",
+    "You’re a personal trainer, and I’m your client. Get me to “work hard” in the gym while sneaking in some flirtation. If I’m not interested, take 4 sips.",
     
-    "You’re a seductive pirate captain, and I’m your first mate. Flirt with me while giving orders on the ship.If you don’t captivate me, take 5 sips.",
+    "You’re a seductive pirate captain, and I’m your first mate. Flirt with me while giving orders on the ship. If you don’t captivate me, take 5 sips.",
     
-    "You’re a billionaire CEO, and I’m your intern. Seduce me into doing your bidding by giving me a little extra attention.If you can’t make it enticing, take 3 sips.",
+    "You’re a billionaire CEO, and I’m your intern. Seduce me into doing your bidding by giving me a little extra attention. If you can’t make it enticing, take 3 sips.",
     
-    "You’re a famous photographer, and I’m your model. Take a sultry photo of me while making suggestive comments.If you can’t get the shot, take 4 sips.",
+    "You’re a famous photographer, and I’m your model. Take a sultry photo of me while making suggestive comments. If you can’t get the shot, take 4 sips.",
     
-    "You’re a professional wrestler, and I’m your opponent. Flirt with me before our match to throw me off my game.If it doesn’t work, take 4 sips.",
+    "You’re a professional wrestler, and I’m your opponent. Flirt with me before our match to throw me off my game. If it doesn’t work, take 4 sips.",
     
-    "You’re an explorer, and I’m the archaeologist who knows the secrets you need. Flirt with me to get the information.If I don’t share the treasure with you, take 5 sips.",
+    "You’re an explorer, and I’m the archaeologist who knows the secrets you need. Flirt with me to get the information. If I don’t share the treasure with you, take 5 sips.",
     
-    "You’re a seductive knight, and I’m your damsel in distress. Rescue me and win my heart in the process.If you fail to impress me, take 4 sips.",
+    "You’re a seductive knight, and I’m your damsel in distress. Rescue me and win my heart in the process. If you fail to impress me, take 4 sips.",
     
-    "You’re a seductive author, and I’m your reader. Read a spicy passage from your book to me and make it sound even hotter.If you don’t get me interested, take 3 sips.",
+    "You’re a seductive author, and I’m your reader. Read a spicy passage from your book to me and make it sound even hotter. If you don’t get me interested, take 3 sips.",
     
-    "You’re a famous chef, and I’m your date. Cook me a private dinner and flirt with me while you serve each course.If it’s not spicy enough, take 5 sips.",
+    "You’re a famous chef, and I’m your date. Cook me a private dinner and flirt with me while you serve each course. If it’s not spicy enough, take 5 sips.",
     
-    "You’re a charming magician, and I’m your assistant. Perform a sexy magic trick and make it flirty.If the trick isn’t enticing, take 4 sips.",
+    "You’re a charming magician, and I’m your assistant. Perform a sexy magic trick and make it flirty. If the trick isn’t enticing, take 4 sips.",
     
-    "You’re a hot personal shopper, and I’m your client. Help me pick out something sexy while complimenting me along the way.If you don’t get me to buy it, take 3 sips.",
+    "You’re a hot personal shopper, and I’m your client. Help me pick out something sexy while complimenting me along the way. If you don’t get me to buy it, take 3 sips.",
     
-    "You’re a suave artist, and I’m your model. Paint a sultry portrait of me while describing your every move.If I’m not flattered, take 4 sips.",
+    "You’re a suave artist, and I’m your model. Paint a sultry portrait of me while describing your every move. If I’m not flattered, take 4 sips.",
     
-    "You’re a provocative personal trainer, and I’m your workout partner. Teach me a “new move” and get close.If I’m not interested, take 3 sips.",
+    "You’re a provocative personal trainer, and I’m your workout partner. Teach me a “new move” and get close. If I’m not interested, take 3 sips.",
     
-    "You’re a charming but mysterious doctor, and I’m your patient. Give me a very “personal” checkup.If it’s not convincing, take 5 sips.",
+    "You’re a charming but mysterious doctor, and I’m your patient. Give me a very “personal” checkup. If it’s not convincing, take 5 sips.",
     
-    "You’re a flirty race car driver, and I’m your pit crew. Flirt with me while you get your car ready.If you can’t rev my engine, take 3 sips.",
+    "You’re a flirty race car driver, and I’m your pit crew. Flirt with me while you get your car ready. If you can’t rev my engine, take 3 sips.",
     
-    "You’re a secret agent, and I’m your target. Get me to spill my secrets by using your charm.If I stay silent, take 5 sips.",
+    "You’re a secret agent, and I’m your target. Get me to spill my secrets by using your charm. If I stay silent, take 5 sips.",
     
-    "You’re a steamy lounge singer, and I’m your audience. Serenade me with your sultry voice.If you don’t make me melt, take 4 sips.",
+    "You’re a steamy lounge singer, and I’m your audience. Serenade me with your sultry voice. If you don’t make me melt, take 4 sips.",
     
-    "You’re a seductive knight in shining armor, and I’m your quest partner. Whisper to me as we travel through dangerous lands.If I don’t fall for it, take 5 sips.",
+    "You’re a seductive knight in shining armor, and I’m your quest partner. Whisper to me as we travel through dangerous lands. If I don’t fall for it, take 5 sips.",
     
-    "You’re a mysterious stranger in a bar, and I’m the bartender. Seduce me while I serve you your drink.If I don’t respond, take 4 sips.",
+    "You’re a mysterious stranger in a bar, and I’m the bartender. Seduce me while I serve you your drink. If I don’t respond, take 4 sips.",
     
-    "You’re a flirty beach volleyball player, and I’m your opponent. Distract me during the game with flirtatious comments.If I don’t get distracted, take 3 sips.",
+    "You’re a flirty beach volleyball player, and I’m your opponent. Distract me during the game with flirtatious comments. If I don’t get distracted, take 3 sips.",
     
-    "You’re a confident and suave private investigator, and I’m your client. Get me to trust you with personal details while making it a little more intimate.If you don’t make me open up, take 4 sips.",
+    "You’re a confident and suave private investigator, and I’m your client. Get me to trust you with personal details while making it a little more intimate. If you don’t make me open up, take 4 sips.",
     
-    "You’re a mysterious yoga instructor, and I’m your student. Lead me through a seductive stretch that leaves me wanting more.If it’s not steamy enough, take 3 sips.",
+    "You’re a mysterious yoga instructor, and I’m your student. Lead me through a seductive stretch that leaves me wanting more. If it’s not steamy enough, take 3 sips.",
     
-    "You’re a famous author, and I’m the person who’s been waiting for your new book. Persuade me that it’s worth reading—and more.If I’m not intrigued, take 4 sips.",
+    "You’re a famous author, and I’m the person who’s been waiting for your new book. Persuade me that it’s worth reading—and more. If I’m not intrigued, take 4 sips.",
     
-    "You’re a sultry masseuse, and I’m your client. Give me a very personal massage while whispering some tantalizing remarks.If you don’t make me swoon, take 5 sips.",
+    "You’re a sultry masseuse, and I’m your client. Give me a very personal massage while whispering some tantalizing remarks. If you don’t make me swoon, take 5 sips.",
     
-    "You’re a sexy cowboy, and I’m the saloon owner. Sweettalk me into giving you a private table.If you don’t win me over, take 4 sips.",
+    "You’re a sexy cowboy, and I’m the saloon owner. Sweettalk me into giving you a private table. If you don’t win me over, take 4 sips.",
     
-    "You’re a famous pop star, and I’m your biggest fan. Sing me a sultry love song to get me to fall for you.If you don’t make me swoon, take 4 sips.",
+    "You’re a famous pop star, and I’m your biggest fan. Sing me a sultry love song to get me to fall for you. If you don’t make me swoon, take 4 sips.",
     
-    "You’re a charming mafia boss, and I’m your new recruit. Make me fall for you as you give me my first assignment.If you can’t do it, take 5 sips.",
+    "You’re a charming mafia boss, and I’m your new recruit. Make me fall for you as you give me my first assignment. If you can’t do it, take 5 sips.",
     
-    "You’re a mysterious sorcerer, and I’m your apprentice. Show me the “dark” side of magic while giving me a flirty glance.If I don’t fall under your spell, take 4 sips.",
+    "You’re a mysterious sorcerer, and I’m your apprentice. Show me the “dark” side of magic while giving me a flirty glance. If I don’t fall under your spell, take 4 sips.",
     
-    "You’re a famous actor, and I’m your costar. Perform a passionate scene with me on set.If you don’t heat things up, take 5 sips.",
+    "You’re a famous actor, and I’m your costar. Perform a passionate scene with me on set. If you don’t heat things up, take 5 sips.",
     
-    "You’re an alluring scientist, and I’m your research assistant. Tempt me with your forbidden experiments.If I don’t bite, take 4 sips.",
+    "You’re an alluring scientist, and I’m your research assistant. Tempt me with your forbidden experiments. If I don’t bite, take 4 sips.",
     
-    "You’re a suave bodyguard, and I’m your rich client. Seduce me as you protect me from an imagined danger.If I’m not convinced, take 5 sips.",
+    "You’re a suave bodyguard, and I’m your rich client. Seduce me as you protect me from an imagined danger. If I’m not convinced, take 5 sips.",
     
-    "You’re a flirtatious baker, and I’m the customer who just walked in. Persuade me to try something new while making me smile.If I’m not intrigued, take 3 sips.",
+    "You’re a flirtatious baker, and I’m the customer who just walked in. Persuade me to try something new while making me smile. If I’m not intrigued, take 3 sips.",
     
-    "You’re a seductive cat burglar, and I’m the unsuspecting victim. Flirt with me as you steal my precious belongings.If I catch you, take 5 sips.",
+    "You’re a seductive cat burglar, and I’m the unsuspecting victim. Flirt with me as you steal my precious belongings. If I catch you, take 5 sips.",
     
-    "You’re a charming pilot, and I’m your flight attendant. Flirt with me while you fly the plane.If you don’t make it fun, take 4 sips.",
+    "You’re a charming pilot, and I’m your flight attendant. Flirt with me while you fly the plane. If you don’t make it fun, take 4 sips.",
     
-    "You’re a sweet, seductive librarian, and I’m your bookobsessed client. Help me find the perfect novel, but make it personal.If I don’t get the hint, take 3 sips.",
+    "You’re a sweet, seductive librarian, and I’m your bookobsessed client. Help me find the perfect novel, but make it personal. If I don’t get the hint, take 3 sips.",
     
-    "You’re a famous art thief, and I’m the museum curator. Flirt with me while you “inspect” the art.If I catch you, take 5 sips.",
+    "You’re a famous art thief, and I’m the museum curator. Flirt with me while you “inspect” the art. If I catch you, take 5 sips.",
     
-    "You’re a passionate archaeologist, and I’m your assistant. Make me swoon while you teach me about an ancient relic.If you don’t impress me, take 4 sips.",
+    "You’re a passionate archaeologist, and I’m your assistant. Make me swoon while you teach me about an ancient relic. If you don’t impress me, take 4 sips.",
     
-    "You’re a seductive rock climber, and I’m your climbing partner. Flirt with me while we scale the wall together.If I don’t feel the chemistry, take 4 sips.",
+    "You’re a seductive rock climber, and I’m your climbing partner. Flirt with me while we scale the wall together. If I don’t feel the chemistry, take 4 sips.",
     
-    "You’re a charming lawyer, and I’m your client. Convince me to trust you while you work your legal magic.If I don’t feel convinced, take 3 sips.",
+    "You’re a charming lawyer, and I’m your client. Convince me to trust you while you work your legal magic. If I don’t feel convinced, take 3 sips.",
     
-    "You’re an irresistible circus ringmaster, and I’m your star performer. Flirt with me before the big show starts.If I’m not charmed, take 4 sips.",
+    "You’re an irresistible circus ringmaster, and I’m your star performer. Flirt with me before the big show starts. If I’m not charmed, take 4 sips.",
     
-    "You’re a seductive knight, and I’m your prisoner. Convince me to join your side with your sweet words and gestures.If I stay loyal, take 5 sips.",
+    "You’re a seductive knight, and I’m your prisoner. Convince me to join your side with your sweet words and gestures. If I stay loyal, take 5 sips.",
     
-    "You’re a dashing adventurer, and I’m the treasure you seek. Persuade me to hand over the prize by showing me your charm.If I don’t fall for it, take 4 sips.",
+    "You’re a dashing adventurer, and I’m the treasure you seek. Persuade me to hand over the prize by showing me your charm. If I don’t fall for it, take 4 sips.",
     
-    "You’re a talented violinist, and I’m your audience. Serenade me with a sultry song that leaves me breathless.If you can’t captivate me, take 4 sips.",
+    "You’re a talented violinist, and I’m your audience. Serenade me with a sultry song that leaves me breathless. If you can’t captivate me, take 4 sips.",
     
-    "You’re a famous painter, and I’m your canvas. Make me feel like the work of art as you “paint” me with your compliments.If you don’t win me over, take 3 sips.",
+    "You’re a famous painter, and I’m your canvas. Make me feel like the work of art as you “paint” me with your compliments. If you don’t win me over, take 3 sips.",
     
-    "You’re a sultry opera singer, and I’m your biggest fan. Sing me a love song while making direct eye contact.If I’m not moved, take 4 sips.",
+    "You’re a sultry opera singer, and I’m your biggest fan. Sing me a love song while making direct eye contact. If I’m not moved, take 4 sips.",
     
-    "You’re a steamy pool boy/girl, and I’m your client at a fancy resort. Flirt with me while you clean the pool.If I don’t fall for you, take 3 sips.",
+    "You’re a steamy pool boy/girl, and I’m your client at a fancy resort. Flirt with me while you clean the pool. If I don’t fall for you, take 3 sips.",
     
-    "You’re a dashing secret agent, and I’m your partner. Get me to reveal my secrets with your irresistible charm.If I stay quiet, take 5 sips.",
+    "You’re a dashing secret agent, and I’m your partner. Get me to reveal my secrets with your irresistible charm. If I stay quiet, take 5 sips.",
     
-    "You’re a gorgeous flight attendant, and I’m your passenger. Flirt with me during the flight to get me more comfortable.If you can’t make me enjoy the flight, take 4 sips.",
+    "You’re a gorgeous flight attendant, and I’m your passenger. Flirt with me during the flight to get me more comfortable. If you can’t make me enjoy the flight, take 4 sips.",
     
-    "You’re a sensual yoga instructor, and I’m your student. Lead me through a calming, yet seductive session.If I’m not relaxed, take 3 sips.",
+    "You’re a sensual yoga instructor, and I’m your student. Lead me through a calming, yet seductive session. If I’m not relaxed, take 3 sips.",
     
-    "You’re a charismatic gardener, and I’m your wealthy client. Flirt with me while tending to my garden.If I’m not into it, take 4 sips.",
+    "You’re a charismatic gardener, and I’m your wealthy client. Flirt with me while tending to my garden. If I’m not into it, take 4 sips.",
     
-    "You’re a charming poolside waiter, and I’m your VIP guest. Serve me a drink while making me feel special with your sweet words.If I don’t appreciate it, take 3 sips.",
+    "You’re a charming poolside waiter, and I’m your VIP guest. Serve me a drink while making me feel special with your sweet words. If I don’t appreciate it, take 3 sips.",
     
-    "You’re a dangerous spy, and I’m the informant. Make me give you the information you need while seducing me.If you don’t succeed, take 5 sips.",
+    "You’re a dangerous spy, and I’m the informant. Make me give you the information you need while seducing me. If you don’t succeed, take 5 sips.",
     
-    "You’re a seductive witch, and I’m the person you’ve put a spell on. Flirt with me while I try to break the curse.If I resist, take 4 sips.",
+    "You’re a seductive witch, and I’m the person you’ve put a spell on. Flirt with me while I try to break the curse. If I resist, take 4 sips.",
     
-    "You’re a smooth car salesman, and I’m your customer. Convince me to buy the most expensive car with a little bit of flirtation.If I don’t bite, take 3 sips.",
+    "You’re a smooth car salesman, and I’m your customer. Convince me to buy the most expensive car with a little bit of flirtation. If I don’t bite, take 3 sips.",
     
-    "You’re a talented hairstylist, and I’m your client. Flirt with me while you give me a makeover.If I don’t notice, take 4 sips.",
+    "You’re a talented hairstylist, and I’m your client. Flirt with me while you give me a makeover. If I don’t notice, take 4 sips.",
     
-    "You’re a suave billionaire, and I’m your newest date. Take me out on a fancy dinner and charm me all the way.If I’m not impressed, take 5 sips.",
+    "You’re a suave billionaire, and I’m your newest date. Take me out on a fancy dinner and charm me all the way. If I’m not impressed, take 5 sips.",
     
-    "You’re a charismatic personal trainer, and I’m your client. Persuade me to push through a difficult workout while adding some flirtation.If I can’t feel the burn, take 3 sips.",
+    "You’re a charismatic personal trainer, and I’m your client. Persuade me to push through a difficult workout while adding some flirtation. If I can’t feel the burn, take 3 sips.",
     
-    "You’re a charming prince/princess, and I’m your subject. Make me fall in love with you during your royal duties.If you don’t convince me, take 4 sips.",
+    "You’re a charming prince/princess, and I’m your subject. Make me fall in love with you during your royal duties. If you don’t convince me, take 4 sips.",
     
-    "You’re a seductive vampire, and I’m your prey. Tempt me with your supernatural powers to come closer.If I run away, take 5 sips.",
+    "You’re a seductive vampire, and I’m your prey. Tempt me with your supernatural powers to come closer. If I run away, take 5 sips.",
     
-    "You’re a famous celebrity chef, and I’m your guest. Cook me a special meal while giving me extra attention.If it’s not delicious enough, take 4 sips.",
+    "You’re a famous celebrity chef, and I’m your guest. Cook me a special meal while giving me extra attention. If it’s not delicious enough, take 4 sips.",
     
-    "You’re a sultry magician, and I’m your assistant. Perform a magic trick while making everything a little more mysterious.If I’m not intrigued, take 5 sips.",
+    "You’re a sultry magician, and I’m your assistant. Perform a magic trick while making everything a little more mysterious. If I’m not intrigued, take 5 sips.",
     
-    "You’re a charming artist, and I’m your muse. Draw me while you describe every seductive detail.If I’m not captivated, take 4 sips.",
+    "You’re a charming artist, and I’m your muse. Draw me while you describe every seductive detail. If I’m not captivated, take 4 sips.",
     
-    "You’re a famous fashion designer, and I’m your model. Make me feel like the most beautiful person alive during your fashion show.If I don’t feel special, take 3 sips.",
+    "You’re a famous fashion designer, and I’m your model. Make me feel like the most beautiful person alive during your fashion show. If I don’t feel special, take 3 sips.",
     
-    "You’re a seductive pirate captain, and I’m your crew member. Flirt with me while we sail the seas.If I’m not intrigued, take 5 sips.",
+    "You’re a seductive pirate captain, and I’m your crew member. Flirt with me while we sail the seas. If I’m not intrigued, take 5 sips.",
     
-    "You’re a dangerous assassin, and I’m your target. Seduce me to drop my guard before you make your move.If you fail, take 5 sips.",
+    "You’re a dangerous assassin, and I’m your target. Seduce me to drop my guard before you make your move. If you fail, take 5 sips.",
     
-    "You’re an alluring bartender, and I’m your only customer tonight. Serve me a drink with a side of sweet, flirty conversation.If I don’t notice, take 4 sips.",
+    "You’re an alluring bartender, and I’m your only customer tonight. Serve me a drink with a side of sweet, flirty conversation. If I don’t notice, take 4 sips.",
     
-    "You’re a charming bodyguard, and I’m your client. Flirt with me as you protect me from harm.If I’m not into it, take 3 sips.",
+    "You’re a charming bodyguard, and I’m your client. Flirt with me as you protect me from harm. If I’m not into it, take 3 sips.",
     
-    "You’re a seductive treasure hunter, and I’m the lost artifact you’ve been searching for. Convince me to reveal myself to you.If I stay hidden, take 5 sips.",
+    "You’re a seductive treasure hunter, and I’m the lost artifact you’ve been searching for. Convince me to reveal myself to you. If I stay hidden, take 5 sips.",
     
-    "You’re a famous race car driver, and I’m your biggest fan. Flirt with me after your win and make me want to celebrate with you.If I’m not impressed, take 4 sips.",
+    "You’re a famous race car driver, and I’m your biggest fan. Flirt with me after your win and make me want to celebrate with you. If I’m not impressed, take 4 sips.",
     
-    "You’re a mysterious writer, and I’m your fan. Read me a steamy passage from your latest book while making it come alive.If I’m not hooked, take 3 sips.",
+    "You’re a mysterious writer, and I’m your fan. Read me a steamy passage from your latest book while making it come alive. If I’m not hooked, take 3 sips.",
     
-    "You’re a passionate violinist, and I’m your concert audience. Play me a seductive tune that makes my heart race.If you don’t impress me, take 4 sips.",
+    "You’re a passionate violinist, and I’m your concert audience. Play me a seductive tune that makes my heart race. If you don’t impress me, take 4 sips.",
     
-    "You’re a confident yoga instructor, and I’m your student. Get me to relax in a seductive position while guiding me with sweet words.If I’m not in the mood, take 3 sips.",
+    "You’re a confident yoga instructor, and I’m your student. Get me to relax in a seductive position while guiding me with sweet words. If I’m not in the mood, take 3 sips.",
     
-    "You’re a suave vampire, and I’m your willing victim. Seduce me with your supernatural charm and make me want to stay in your world forever.If you don’t turn me into your follower, take 5 sips.",
+    "You’re a suave vampire, and I’m your willing victim. Seduce me with your supernatural charm and make me want to stay in your world forever. If you don’t turn me into your follower, take 5 sips.",
     
-    "You’re a seductive chef, and I’m your guest. Cook me a special meal while seducing me with your irresistible kitchen skills.If I’m not hooked, take 4 sips.",
+    "You’re a seductive chef, and I’m your guest. Cook me a special meal while seducing me with your irresistible kitchen skills. If I’m not hooked, take 4 sips.",
     
-    "You’re a charming musician, and I’m your groupie. Play a sensual tune that makes me want to get closer.If you don’t make me swoon, take 4 sips.",
+    "You’re a charming musician, and I’m your groupie. Play a sensual tune that makes me want to get closer. If you don’t make me swoon, take 4 sips.",
     
-    "You’re a confident secret agent, and I’m your informant. Flirt with me to get the information you need while making it personal.If I stay silent, take 5 sips.",
+    "You’re a confident secret agent, and I’m your informant. Flirt with me to get the information you need while making it personal. If I stay silent, take 5 sips.",
     
-    "You’re a mysterious author, and I’m your biggest fan. Read me an excerpt from your steamy novel while gazing into my eyes.If I don’t fall for it, take 4 sips.",
+    "You’re a mysterious author, and I’m your biggest fan. Read me an excerpt from your steamy novel while gazing into my eyes. If I don’t fall for it, take 4 sips.",
     
-    "You’re a seductive pirate captain, and I’m your first mate. Flirt with me as you give me my orders on deck.If I’m not tempted, take 5 sips.",
+    "You’re a seductive pirate captain, and I’m your first mate. Flirt with me as you give me my orders on deck. If I’m not tempted, take 5 sips.",
     
-    "You’re a charming astronaut, and I’m your fellow crew member. Flirt with me during our mission to the stars.If I don’t respond, take 4 sips.",
+    "You’re a charming astronaut, and I’m your fellow crew member. Flirt with me during our mission to the stars. If I don’t respond, take 4 sips.",
     
-    "You’re a confident knight, and I’m your captured princess. Flirt with me as you try to convince me to escape with you.If I stay in the castle, take 5 sips.",
+    "You’re a confident knight, and I’m your captured princess. Flirt with me as you try to convince me to escape with you. If I stay in the castle, take 5 sips.",
     
-    "You’re a flirty archaeologist, and I’m the priceless artifact you’ve discovered. Get me to give up my secrets while making it tempting.If I resist, take 4 sips.",
+    "You’re a flirty archaeologist, and I’m the priceless artifact you’ve discovered. Get me to give up my secrets while making it tempting. If I resist, take 4 sips.",
     
-    "You’re a tempting lifeguard, and I’m the beachgoer in need of rescue. Flirt with me while you “save” me from danger.If I’m not interested, take 3 sips.",
+    "You’re a tempting lifeguard, and I’m the beachgoer in need of rescue. Flirt with me while you “save” me from danger. If I’m not interested, take 3 sips.",
     
-    "You’re a seductive masseuse, and I’m your client. Give me a sensual massage and whisper sweet things in my ear.If I don’t enjoy it, take 4 sips.",
+    "You’re a seductive masseuse, and I’m your client. Give me a sensual massage and whisper sweet things in my ear. If I don’t enjoy it, take 4 sips.",
     
-    "You’re a captivating magician, and I’m your assistant. Perform a steamy trick that gets me to fall under your spell.If I’m not amazed, take 5 sips.",
+    "You’re a captivating magician, and I’m your assistant. Perform a steamy trick that gets me to fall under your spell. If I’m not amazed, take 5 sips.",
     
-    "You’re a mysterious mafia boss, and I’m your reluctant recruit. Charm me into following you by showing me your irresistible power.If I stay hesitant, take 4 sips.",
+    "You’re a mysterious mafia boss, and I’m your reluctant recruit. Charm me into following you by showing me your irresistible power. If I stay hesitant, take 4 sips.",
     
-    "You’re a hot barista, and I’m the regular at your coffee shop. Flirt with me as you make my favorite drink.If I don’t feel the heat, take 3 sips.",
+    "You’re a hot barista, and I’m the regular at your coffee shop. Flirt with me as you make my favorite drink. If I don’t feel the heat, take 3 sips.",
     
-    "You’re a daring race car driver, and I’m your pit crew. Get me to help you win by distracting me with some flirtation.If I stay focused, take 4 sips.",
+    "You’re a daring race car driver, and I’m your pit crew. Get me to help you win by distracting me with some flirtation. If I stay focused, take 4 sips.",
     
-    "You’re a talented dancer, and I’m your partner. Lead me through a seductive dance that makes me feel like I’m the only one in the room.If I’m not impressed, take 4 sips.",
+    "You’re a talented dancer, and I’m your partner. Lead me through a seductive dance that makes me feel like I’m the only one in the room. If I’m not impressed, take 4 sips.",
     
-    "You’re a suave personal trainer, and I’m your client. Get me to follow your directions with some flirty encouragement.If I’m not motivated, take 3 sips.",
+    "You’re a suave personal trainer, and I’m your client. Get me to follow your directions with some flirty encouragement. If I’m not motivated, take 3 sips.",
     
-    "You’re a confident professor, and I’m your student. Flirt with me during your lecture, making me pay attention in the most unexpected ways.If I don’t blush, take 4 sips.",
+    "You’re a confident professor, and I’m your student. Flirt with me during your lecture, making me pay attention in the most unexpected ways. If I don’t blush, take 4 sips.",
     
-    "You’re a smooth car salesman, and I’m your customer. Convince me to buy the luxury car while sweettalking me into the deal.If I don’t buy, take 3 sips.",
+    "You’re a smooth car salesman, and I’m your customer. Convince me to buy the luxury car while sweettalking me into the deal. If I don’t buy, take 3 sips.",
     
-    "You’re a charming hotel concierge, and I’m your VIP guest. Flirt with me while making my stay unforgettable.If I don’t get interested, take 4 sips.",
+    "You’re a charming hotel concierge, and I’m your VIP guest. Flirt with me while making my stay unforgettable. If I don’t get interested, take 4 sips.",
     
-    "You’re a confident bodyguard, and I’m the person you’ve been assigned to protect. Flirt with me while keeping me safe.If I don’t feel secure, take 3 sips.",
+    "You’re a confident bodyguard, and I’m the person you’ve been assigned to protect. Flirt with me while keeping me safe. If I don’t feel secure, take 3 sips.",
     
-    "You’re a charming beach bartender, and I’m the vacationer enjoying my time in the sun. Serve me a drink while adding some playful compliments.If I don’t bite, take 4 sips.",
+    "You’re a charming beach bartender, and I’m the vacationer enjoying my time in the sun. Serve me a drink while adding some playful compliments. If I don’t bite, take 4 sips.",
     
-    "You’re a seductive witch, and I’m the mortal you’ve enchanted. Make me fall under your spell with your charms.If I break free, take 5 sips.",
+    "You’re a seductive witch, and I’m the mortal you’ve enchanted. Make me fall under your spell with your charms. If I break free, take 5 sips.",
     
-    "You’re a sultry photographer, and I’m your model. Pose me in a way that leaves me wanting more.If I’m not intrigued, take 4 sips.",
+    "You’re a sultry photographer, and I’m your model. Pose me in a way that leaves me wanting more. If I’m not intrigued, take 4 sips.",
     
-    "You’re a hot yoga instructor, and I’m your student. Lead me through a seductive flow that’s both calming and flirtatious.If I’m not in the mood, take 3 sips.",
+    "You’re a hot yoga instructor, and I’m your student. Lead me through a seductive flow that’s both calming and flirtatious. If I’m not in the mood, take 3 sips.",
     
-    "You’re a charming bartender, and I’m the person you’ve been eyeing all night. Serve me a drink while making me want to stay longer.If I leave, take 4 sips.",
+    "You’re a charming bartender, and I’m the person you’ve been eyeing all night. Serve me a drink while making me want to stay longer. If I leave, take 4 sips.",
     
-    "You’re a mysterious werewolf, and I’m the human you’ve chosen to keep an eye on. Flirt with me while keeping your dangerous side hidden.If I’m not captivated, take 5 sips.",
+    "You’re a mysterious werewolf, and I’m the human you’ve chosen to keep an eye on. Flirt with me while keeping your dangerous side hidden. If I’m not captivated, take 5 sips.",
     
-    "You’re a famous athlete, and I’m your biggest fan. Get me to join you in a private celebration after your big win.If I stay shy, take 4 sips.",
+    "You’re a famous athlete, and I’m your biggest fan. Get me to join you in a private celebration after your big win. If I stay shy, take 4 sips.",
     
-    "You’re a flirtatious photographer, and I’m your subject. Take a series of sultry photos while making me feel like a star.If I’m not into it, take 3 sips.",
+    "You’re a flirtatious photographer, and I’m your subject. Take a series of sultry photos while making me feel like a star. If I’m not into it, take 3 sips.",
     
-    "You’re a seductive detective, and I’m your suspect. Charm me into confessing my secrets while keeping the tension high.If I stay silent, take 5 sips.",
+    "You’re a seductive detective, and I’m your suspect. Charm me into confessing my secrets while keeping the tension high. If I stay silent, take 5 sips.",
     
-    "You’re a passionate artist, and I’m your muse. Paint me in a way that makes me feel both beautiful and desirable.If I’m not flattered, take 4 sips.",
+    "You’re a passionate artist, and I’m your muse. Paint me in a way that makes me feel both beautiful and desirable. If I’m not flattered, take 4 sips.",
     
-    "You’re a charming jeweler, and I’m the customer. Show me your latest collection while making me feel special.If I’m not impressed, take 3 sips.",
+    "You’re a charming jeweler, and I’m the customer. Show me your latest collection while making me feel special. If I’m not impressed, take 3 sips.",
     
-    "You’re a daring spy, and I’m the informant you’ve been sent to retrieve information from. Flirt with me to get the details you need.If I stay tightlipped, take 5 sips.",
+    "You’re a daring spy, and I’m the informant you’ve been sent to retrieve information from. Flirt with me to get the details you need. If I stay tightlipped, take 5 sips.",
     
-    "You’re a seductive nurse, and I’m your patient. Take care of me while adding a bit of flirtation to your treatment.If I’m not seduced, take 4 sips.",
+    "You’re a seductive nurse, and I’m your patient. Take care of me while adding a bit of flirtation to your treatment. If I’m not seduced, take 4 sips.",
     
-    "You’re a mysterious magician, and I’m your assistant. Perform a sultry magic trick that makes me want to get closer.If I’m not amazed, take 4 sips.",
+    "You’re a mysterious magician, and I’m your assistant. Perform a sultry magic trick that makes me want to get closer. If I’m not amazed, take 4 sips.",
     
-    "You’re a charming scientist, and I’m your lab assistant. Help me with an experiment while making things a little more exciting.If I don’t fall for you, take 3 sips.",
+    "You’re a charming scientist, and I’m your lab assistant. Help me with an experiment while making things a little more exciting. If I don’t fall for you, take 3 sips.",
     
-    "You’re a hot fashion designer, and I’m your model. Flirt with me as you help me get dressed in something sultry.If I’m not interested, take 4 sips.",
+    "You’re a hot fashion designer, and I’m your model. Flirt with me as you help me get dressed in something sultry. If I’m not interested, take 4 sips.",
     
-    "You’re a passionate magician, and I’m your volunteer. Perform a seductive trick that gets me to fall under your spell.If I resist, take 5 sips.",
+    "You’re a passionate magician, and I’m your volunteer. Perform a seductive trick that gets me to fall under your spell. If I resist, take 5 sips.",
     
-    "You’re a mysterious artist, and I’m your model. Get me to pose in a way that’s both seductive and artistic.If I’m not impressed, take 4 sips.",
+    "You’re a mysterious artist, and I’m your model. Get me to pose in a way that’s both seductive and artistic. If I’m not impressed, take 4 sips.",
     
-    "You’re a sexy bodyguard, and I’m your charge. Flirt with me while keeping me safe from harm.If I’m not swayed, take 3 sips.",
+    "You’re a sexy bodyguard, and I’m your charge. Flirt with me while keeping me safe from harm. If I’m not swayed, take 3 sips.",
     
-    "You’re a charming librarian, and I’m your library patron. Convince me to check out a book by making me feel irresistible.If I don’t check out a book, take 3 sips.",
+    "You’re a charming librarian, and I’m your library patron. Convince me to check out a book by making me feel irresistible. If I don’t check out a book, take 3 sips.",
     
-    "You’re a sultry waitstaff, and I’m your customer. Serve me a drink and make sure the evening feels special.If I don’t take the drink, take 4 sips.",
+    "You’re a sultry waitstaff, and I’m your customer. Serve me a drink and make sure the evening feels special. If I don’t take the drink, take 4 sips.",
     
-    "You’re a flirty astronaut, and I’m your fellow crew member. Flirt with me in zero gravity to make things a little more exciting.If I stay focused on work, take 4 sips.",
+    "You’re a flirty astronaut, and I’m your fellow crew member. Flirt with me in zero gravity to make things a little more exciting. If I stay focused on work, take 4 sips.",
     
-    "You’re a confident tailor, and I’m your client. Help me pick out something sensual to wear while giving me flirty remarks.If I don’t like the outfit, take 3 sips.",
+    "You’re a confident tailor, and I’m your client. Help me pick out something sensual to wear while giving me flirty remarks. If I don’t like the outfit, take 3 sips.",
     
-    "You’re a mysterious fortune teller, and I’m your client. Predict my future in a seductive way that makes me want to know more.If I’m not intrigued, take 4 sips.",
+    "You’re a mysterious fortune teller, and I’m your client. Predict my future in a seductive way that makes me want to know more. If I’m not intrigued, take 4 sips.",
     
-    "You’re a sultry singer, and I’m your fan. Sing me a song that makes me feel like I’m the only one in the room.If I’m not captivated, take 4 sips.",
+    "You’re a sultry singer, and I’m your fan. Sing me a song that makes me feel like I’m the only one in the room. If I’m not captivated, take 4 sips.",
     
-    "You’re a seductive gym trainer, and I’m your client. Get me to work out while making it a playful experience.If I’m not sweating, take 3 sips.",
+    "You’re a seductive gym trainer, and I’m your client. Get me to work out while making it a playful experience. If I’m not sweating, take 3 sips.",
     
-    "You’re a passionate chef, and I’m your date. Cook me a meal while turning up the heat with some flirty conversation.If I’m not tempted, take 4 sips.",
+    "You’re a passionate chef, and I’m your date. Cook me a meal while turning up the heat with some flirty conversation. If I’m not tempted, take 4 sips.",
     
-    "You’re a mysterious witch, and I’m the person you’ve cast a spell on. Seduce me to break the curse.If I resist, take 5 sips.",
+    "You’re a mysterious witch, and I’m the person you’ve cast a spell on. Seduce me to break the curse. If I resist, take 5 sips.",
     
-    "You’re a seductive playboy/playgirl, and I’m your date. Charm me during dinner while leaving just enough to the imagination.If I’m not impressed, take 4 sips.",
+    "You’re a seductive playboy/playgirl, and I’m your date. Charm me during dinner while leaving just enough to the imagination. If I’m not impressed, take 4 sips.",
     
-    "You’re a sultry art thief, and I’m your unwitting target. Flirt with me while you “steal” my heart.If I catch you, take 5 sips.",
+    "You’re a sultry art thief, and I’m your unwitting target. Flirt with me while you “steal” my heart. If I catch you, take 5 sips.",
     
-    "You’re a charming firefighter, and I’m the person you’ve just rescued. Flirt with me as you make sure I’m safe.If I don’t fall for you, take 4 sips.",
+    "You’re a charming firefighter, and I’m the person you’ve just rescued. Flirt with me as you make sure I’m safe. If I don’t fall for you, take 4 sips.",
     
-    "You’re a seductive detective, and I’m your witness. Persuade me to tell you the truth with some tempting words.If I stay silent, take 5 sips.",
+    "You’re a seductive detective, and I’m your witness. Persuade me to tell you the truth with some tempting words. If I stay silent, take 5 sips.",
     
-    "You’re a handsome prince, and I’m your servant. Show me a glimpse of your charm while you make your royal request.If I resist, take 4 sips.",
+    "You’re a handsome prince, and I’m your servant. Show me a glimpse of your charm while you make your royal request. If I resist, take 4 sips.",
     
-    "You’re a confident stuntman, and I’m your audience. Flirt with me while you perform a dangerous trick.If I’m not impressed, take 4 sips.",
+    "You’re a confident stuntman, and I’m your audience. Flirt with me while you perform a dangerous trick. If I’m not impressed, take 4 sips.",
     
-    "You’re a smooth bartender, and I’m your guest. Serve me a drink while you sweettalk me into staying longer.If I leave early, take 3 sips.",
+    "You’re a smooth bartender, and I’m your guest. Serve me a drink while you sweettalk me into staying longer. If I leave early, take 3 sips.",
     
-    "You’re a seductive sorcerer, and I’m your apprentice. Tempt me into using dark magic with your flirty guidance.If I stay pure, take 5 sips.",
+    "You’re a seductive sorcerer, and I’m your apprentice. Tempt me into using dark magic with your flirty guidance. If I stay pure, take 5 sips.",
     
-    "You’re a sultry personal trainer, and I’m your client. Get me to push through my workout while complimenting me.If I don’t feel motivated, take 3 sips.",
+    "You’re a sultry personal trainer, and I’m your client. Get me to push through my workout while complimenting me. If I don’t feel motivated, take 3 sips.",
     
-    "You’re a sexy gladiator, and I’m the captive princess. Convince me to join you as you fight for my freedom.If I stay in the palace, take 5 sips.",
+    "You’re a sexy gladiator, and I’m the captive princess. Convince me to join you as you fight for my freedom. If I stay in the palace, take 5 sips.",
     
-    "You’re a daring magician, and I’m your assistant. Perform a trick that leaves me breathless with your charm.If I’m not amazed, take 4 sips.",
+    "You’re a daring magician, and I’m your assistant. Perform a trick that leaves me breathless with your charm. If I’m not amazed, take 4 sips.",
     
-    "You’re a smooth pilot, and I’m your passenger. Flirt with me while you fly us to a tropical destination.If I don’t enjoy the flight, take 4 sips.",
+    "You’re a smooth pilot, and I’m your passenger. Flirt with me while you fly us to a tropical destination. If I don’t enjoy the flight, take 4 sips.",
     
-    "You’re a mysterious private investigator, and I’m your client. Charm me into revealing my secrets while keeping it playful.If I stay guarded, take 5 sips.",
+    "You’re a mysterious private investigator, and I’m your client. Charm me into revealing my secrets while keeping it playful. If I stay guarded, take 5 sips.",
     
-    "You’re a seductive photographer, and I’m your model. Take a series of sultry shots while making me feel irresistible.If I’m not flattered, take 4 sips.",
+    "You’re a seductive photographer, and I’m your model. Take a series of sultry shots while making me feel irresistible. If I’m not flattered, take 4 sips.",
     
-    "You’re a charming beach lifeguard, and I’m your beachgoer. Flirt with me while keeping an eye out for trouble.If I’m not interested, take 3 sips.",
+    "You’re a charming beach lifeguard, and I’m your beachgoer. Flirt with me while keeping an eye out for trouble. If I’m not interested, take 3 sips.",
     
-    "You’re a suave artist, and I’m your muse. Draw me in a way that makes me feel both seductive and powerful.If I’m not captivated, take 4 sips.",
+    "You’re a suave artist, and I’m your muse. Draw me in a way that makes me feel both seductive and powerful. If I’m not captivated, take 4 sips.",
     
-    "You’re a daring cowboy/cowgirl, and I’m your ranch partner. Flirt with me while we work together in the barn.If I don’t feel the chemistry, take 4 sips.",
+    "You’re a daring cowboy/cowgirl, and I’m your ranch partner. Flirt with me while we work together in the barn. If I don’t feel the chemistry, take 4 sips.",
     
-    "You’re a seductive rock star, and I’m your biggest fan. Perform a sensual song for me while making me feel like the only one in the crowd.If I’m not starstruck, take 4 sips.",
+    "You’re a seductive rock star, and I’m your biggest fan. Perform a sensual song for me while making me feel like the only one in the crowd. If I’m not starstruck, take 4 sips.",
     
-    "You’re a smooth talking car mechanic, and I’m your customer. Flirt with me while you fix my car.If I don’t notice, take 3 sips.",
+    "You’re a smooth talking car mechanic, and I’m your customer. Flirt with me while you fix my car. If I don’t notice, take 3 sips.",
     
-    "You’re a mysterious rogue, and I’m your captive. Flirt with me while you slowly untie me.If I escape, take 5 sips.",
+    "You’re a mysterious rogue, and I’m your captive. Flirt with me while you slowly untie me. If I escape, take 5 sips.",
     
-    "You’re a charming professor, and I’m your star pupil. Flirt with me during office hours while you tutor me.If I don’t stay focused, take 4 sips.",
+    "You’re a charming professor, and I’m your star pupil. Flirt with me during office hours while you tutor me. If I don’t stay focused, take 4 sips.",
     
-    "You’re a sultry DJ, and I’m your biggest fan. Get me to dance with you while you play some hot beats.If I don’t get up, take 4 sips.",
+    "You’re a sultry DJ, and I’m your biggest fan. Get me to dance with you while you play some hot beats. If I don’t get up, take 4 sips.",
     
-    "You’re a confident butler, and I’m your guest. Flirt with me while you attend to my every need.If I don’t get interested, take 3 sips.",
+    "You’re a confident butler, and I’m your guest. Flirt with me while you attend to my every need. If I don’t get interested, take 3 sips.",
     
-    "You’re a seductive nurse, and I’m your patient. Tempt me into taking the “right” treatment with your sweet words.If I stay healthy, take 4 sips.",
+    "You’re a seductive nurse, and I’m your patient. Tempt me into taking the “right” treatment with your sweet words. If I stay healthy, take 4 sips.",
     
-    "You’re a passionate scientist, and I’m your research assistant. Persuade me to join your secret experiment with your irresistible charm.If I don’t join, take 5 sips.",
+    "You’re a passionate scientist, and I’m your research assistant. Persuade me to join your secret experiment with your irresistible charm. If I don’t join, take 5 sips.",
     
-    "You’re a suave billionaire, and I’m your new date. Take me out to an extravagant dinner and convince me to join you in your lavish lifestyle.If I’m not into it, take 5 sips.",
+    "You’re a suave billionaire, and I’m your new date. Take me out to an extravagant dinner and convince me to join you in your lavish lifestyle. If I’m not into it, take 5 sips.",
     
-    "You’re a charming lifeguard, and I’m your beach visitor. Flirt with me while you check that I’m safe in the water.If I stay dry, take 3 sips.",
+    "You’re a charming lifeguard, and I’m your beach visitor. Flirt with me while you check that I’m safe in the water. If I stay dry, take 3 sips.",
     
-    "You’re a daring treasure hunter, and I’m your partner. Get me to help you find the treasure with some sweet persuasion.If I stay hesitant, take 4 sips.",
+    "You’re a daring treasure hunter, and I’m your partner. Get me to help you find the treasure with some sweet persuasion. If I stay hesitant, take 4 sips.",
     
-    "You’re a smooth pilot, and I’m your passenger. Take me on a wild ride as you flirt and make the flight unforgettable.If I’m not on cloud nine, take 4 sips.",
+    "You’re a smooth pilot, and I’m your passenger. Take me on a wild ride as you flirt and make the flight unforgettable. If I’m not on cloud nine, take 4 sips.",
     
-    "You’re a seductive circus ringmaster, and I’m your performer. Flirt with me during our performance while making me the center of attention.If I’m not impressed, take 4 sips.",
+    "You’re a seductive circus ringmaster, and I’m your performer. Flirt with me during our performance while making me the center of attention. If I’m not impressed, take 4 sips.",
     
-    "You’re a mysterious knight, and I’m your captured princess. Flirt with me to convince me to escape with you.If I stay in the castle, take 5 sips.",
+    "You’re a mysterious knight, and I’m your captured princess. Flirt with me to convince me to escape with you. If I stay in the castle, take 5 sips.",
     
-    "You’re a confident photographer, and I’m your subject. Snap some seductive photos of me while making me feel like a star.If I’m not feeling confident, take 4 sips.",
+    "You’re a confident photographer, and I’m your subject. Snap some seductive photos of me while making me feel like a star. If I’m not feeling confident, take 4 sips.",
     
-    "You’re a flirty masseuse, and I’m your client. Give me a sensual massage while whispering sweet compliments.If I’m not relaxed, take 4 sips.",
+    "You’re a flirty masseuse, and I’m your client. Give me a sensual massage while whispering sweet compliments. If I’m not relaxed, take 4 sips.",
     
-    "You’re a smooth talker, and I’m your secret crush. Flirt with me while making sure I’m completely enchanted by you.If I don’t fall for it, take 3 sips.",
+    "You’re a smooth talker, and I’m your secret crush. Flirt with me while making sure I’m completely enchanted by you. If I don’t fall for it, take 3 sips.",
     
-    "You’re a seductive wizard, and I’m your apprentice. Cast a spell that leaves me enchanted and wanting more.If I break the spell, take 5 sips.",
+    "You’re a seductive wizard, and I’m your apprentice. Cast a spell that leaves me enchanted and wanting more. If I break the spell, take 5 sips.",
     
-    "You’re a charming secret agent, and I’m your informant. Get me to reveal all the secrets with your flirty interrogation.If I stay silent, take 5 sips.",
+    "You’re a charming secret agent, and I’m your informant. Get me to reveal all the secrets with your flirty interrogation. If I stay silent, take 5 sips.",
     
-    "You’re a seductive gladiator, and I’m your opponent in the arena. Convince me to join forces while battling it out.If I resist, take 5 sips.",
+    "You’re a seductive gladiator, and I’m your opponent in the arena. Convince me to join forces while battling it out. If I resist, take 5 sips.",
     
-    "You’re a sultry poet, and I’m your muse. Recite an original poem that makes me fall in love with your words.If I’m not swept away, take 4 sips.",
+    "You’re a sultry poet, and I’m your muse. Recite an original poem that makes me fall in love with your words. If I’m not swept away, take 4 sips.",
     
-    "You’re a confident dancer, and I’m your partner. Sweep me off my feet while we dance together.If I stay seated, take 3 sips.",
+    "You’re a confident dancer, and I’m your partner. Sweep me off my feet while we dance together. If I stay seated, take 3 sips.",
     
-    "You’re a sexy lifeguard, and I’m your beach guest. Flirt with me while ensuring I’m safe in the water.If I don’t swim closer, take 3 sips.",
+    "You’re a sexy lifeguard, and I’m your beach guest. Flirt with me while ensuring I’m safe in the water. If I don’t swim closer, take 3 sips.",
     
-    "You’re a sultry rock star, and I’m your biggest fan. Get me to join you backstage with your charm.If I stay in the crowd, take 4 sips.",
+    "You’re a sultry rock star, and I’m your biggest fan. Get me to join you backstage with your charm. If I stay in the crowd, take 4 sips.",
     
-    "You’re a charming archaeologist, and I’m your assistant. Convince me to join your adventurous dig with some irresistible persuasion.If I resist, take 4 sips.",
+    "You’re a charming archaeologist, and I’m your assistant. Convince me to join your adventurous dig with some irresistible persuasion. If I resist, take 4 sips.",
     
-    "You’re a seductive assassin, and I’m your target. Flirt with me to keep me off guard while you “eliminate” me.If I escape, take 5 sips.",
+    "You’re a seductive assassin, and I’m your target. Flirt with me to keep me off guard while you “eliminate” me. If I escape, take 5 sips.",
     
-    "You’re a confident pirate, and I’m the treasure you’ve been seeking. Get me to hand myself over with your irresistible charm.If I hide, take 5 sips.",
+    "You’re a confident pirate, and I’m the treasure you’ve been seeking. Get me to hand myself over with your irresistible charm. If I hide, take 5 sips.",
     
-    "You’re a mysterious magician, and I’m your assistant. Perform a trick that’s both mysterious and steamy.If I’m not amazed, take 4 sips.",
+    "You’re a mysterious magician, and I’m your assistant. Perform a trick that’s both mysterious and steamy. If I’m not amazed, take 4 sips.",
     
-    "You’re a flirty bodyguard, and I’m your celebrity charge. Keep me safe while making me feel like the star of the show.If I stay calm, take 3 sips.",
+    "You’re a flirty bodyguard, and I’m your celebrity charge. Keep me safe while making me feel like the star of the show. If I stay calm, take 3 sips.",
     
-    "You’re a daring stunt performer, and I’m your partner. Get me to join you in a risky stunt while looking incredibly hot.If I stay cautious, take 4 sips.",
+    "You’re a daring stunt performer, and I’m your partner. Get me to join you in a risky stunt while looking incredibly hot. If I stay cautious, take 4 sips.",
     
-    "You’re a sultry tennis coach, and I’m your student. Teach me how to play while adding a little playful flirtation.If I don’t get the hint, take 3 sips.",
+    "You’re a sultry tennis coach, and I’m your student. Teach me how to play while adding a little playful flirtation. If I don’t get the hint, take 3 sips.",
     
-    "You’re a seductive spy, and I’m your contact. Get me to spill the secrets with a touch of charm and a lot of allure.If I stay quiet, take 5 sips.",
+    "You’re a seductive spy, and I’m your contact. Get me to spill the secrets with a touch of charm and a lot of allure. If I stay quiet, take 5 sips.",
     
-    "You’re a charming con artist, and I’m your mark. Flirt with me while you pull off your latest heist.If I don’t fall for it, take 4 sips.",
+    "You’re a charming con artist, and I’m your mark. Flirt with me while you pull off your latest heist. If I don’t fall for it, take 4 sips.",
     
     "You’re a smooth talker, and I’m your date. Charm me during a cozy dinner, making me feel like the only one that matters."
 ]
@@ -1228,431 +1228,252 @@ let SpicyDares: [String] = [
 ]
 
 let BlackoutDares: [String] = [
-    "Everyone takes turns naming car brands. The first player to repeat a car brand or fail to think of one within 5 seconds takes 3 sips. If someone repeats or is too slow, they take 3 sips.",
-
-    "Players go around in a circle and each name a famous movie quote. The first player to repeat a quote or fail to come up with one takes 4 sips. If someone repeats or is too slow, they take 4 sips.",
-
-    "Everyone must name a country in alphabetical order. If you repeat a country or can't think of one in time, you take 5 sips. If someone repeats or is too slow, they take 5 sips.",
-
-    "Players take turns naming animals, but each animal must start with the last letter of the previous one. If someone repeats an animal or takes too long, they take 3 sips. If someone repeats or is too slow, they take 3 sips.",
-
-    "Everyone has to name a famous musician. The first person to repeat or fail to come up with one within 5 seconds takes 4 sips. If someone repeats or is too slow, they take 4 sips.",
-
-    "Each player must name a TV show. The first player to repeat a show or hesitate for more than 5 seconds takes 3 sips. If someone repeats or is too slow, they take 3 sips.",
-
-    "Players take turns naming food items. The first person to repeat a food or take too long to respond must take 2 sips. If someone repeats or is too slow, they take 2 sips.",
-
-    "Everyone names a celebrity, but the names must be unique (no repeats). The first person to repeat a celebrity or hesitate for more than 5 seconds takes 3 sips. If someone repeats or is too slow, they take 3 sips.",
-
-    "Players go around naming cities. If someone repeats a city or can’t think of one in 5 seconds, they must take 4 sips. If someone repeats or is too slow, they take 4 sips.",
-
-    "Players name a video game title. The first player to repeat a title or hesitate for more than 5 seconds takes 4 sips. If someone repeats or is too slow, they take 4 sips.",
-
-    "Everyone must name a superhero. The first person to repeat a name or fail to come up with one within 5 seconds takes 5 sips. If someone repeats or is too slow, they take 5 sips.",
-
-    "Players name famous books. The first person to repeat a book or fail to come up with one in 5 seconds must take 4 sips. If someone repeats or is too slow, they take 4 sips.",
-
-    "Everyone must name an ice cream flavor. If anyone repeats or takes too long, they must take 3 sips. If someone repeats or is too slow, they take 3 sips.",
-
-    "Players name sports teams (e.g., football, basketball). If someone repeats a team or takes too long to respond, they take 4 sips. If someone repeats or is too slow, they take 4 sips.",
-
-    "Everyone names a song title. The first player to repeat or hesitate for more than 5 seconds must take 4 sips. If someone repeats or is too slow, they take 4 sips.",
-
-    "Players take turns naming drinks or cocktails. If someone repeats a drink or takes too long, they must take 3 sips. If someone repeats or is too slow, they take 3 sips.",
-
-    "Chug your drink if you can’t do a backflip or something similar. If you don’t, take 3 sips.",
-
-    "Act out a scene from a movie. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do 20 jumping jacks without stopping. If you hesitate or stop, take 5 sips. If you don’t, take 5 sips.",
-
-    "Chug your drink while performing an embarrassing dance move for 30 seconds. If you don’t, take 4 sips.",
-
-    "Let someone draw something on your arm with a pen or marker. If you don’t, take 3 sips. If you don’t, take 3 sips.",
-
-    "Hold your breath for 30 seconds. If you can’t, take 5 sips. If you don’t, take 5 sips.",
-
-    "Let someone blindfold you and give you an object to guess. If you fail, take 3 sips. If you don’t, take 3 sips.",
-
-    "Take a shot of something you’ve never tried before. If you don’t, take 4 sips. If you don’t, take 4 sips.",
-
-    "Give someone a piggyback ride for 1 minute. If you drop them or quit, take 5 sips. If you don’t, take 5 sips.",
-
-    "Chug your drink while singing your favorite song. Don’t stop until it’s finished. If you don’t, take 4 sips.",
-
-    "Do your best impression of a celebrity. If no one guesses correctly, take 3 sips. If you don’t, take 3 sips.",
-
-    "Do 10 sit-ups or push-ups. If you can’t, take 4 sips. If you don’t, take 4 sips.",
-
-    "Give someone a 30-second massage. If they don’t enjoy it, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while trying to balance a spoon on your nose. Don’t stop until it’s finished. If you don’t, take 5 sips.",
-
-    "Let someone pour cold water over your head. If you refuse, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while attempting to do your best dance move for 30 seconds. If you don’t, take 4 sips.",
-
-    "Imitate an animal sound for 30 seconds. If it’s not convincing, take 3 sips. If you don’t, take 3 sips.",
-
-    "Take a spoonful of hot sauce or something spicy. If you refuse, take 5 sips. If you don’t, take 5 sips.",
-
-    "Chug your drink while trying to hold a plank position for 30 seconds. If you don’t, take 4 sips.",
-
-    "Do your best cartwheel. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while standing on one leg for 1 minute. If you don’t, take 5 sips.",
-
-    "Draw something on a piece of paper with your eyes closed. If it’s not recognizable, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do a funny impression of someone in the room. If it’s not good, take 3 sips. If you don’t, take 3 sips.",
-
-    "Let someone choose a food item for you to eat. If you refuse, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while giving yourself a high-five. Don’t stop until it’s finished. If you don’t, take 4 sips.",
-
-    "Take 3 sips and then share an embarrassing story from your past. If it’s not embarrassing enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while trying to do a handstand for 10 seconds. If you don’t, take 5 sips.",
-
-    "Chug your drink while trying to touch your toes for 1 minute. If you don’t, take 4 sips.",
-
-    "Let someone draw a funny doodle on your face with a marker. If you don’t, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing your best dance moves for 30 seconds. If you don’t, take 4 sips.",
-
-    "Let someone give you a funny nickname. If you don’t like it, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing an impression of a cartoon character. If you don’t, take 4 sips.",
-
-    "Give someone a compliment every 10 seconds for 1 minute. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do 15 squats in a row without stopping. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while balancing a book on your head. If you don’t, take 4 sips.",
-
-    "Give a dramatic reading of a random text on your phone. If it’s not dramatic, take 3 sips. If you don’t, take 3 sips.",
-
-    "Let someone put a silly item (like a hat or glasses) on your head. If you don’t, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing the worm (or trying to). If you don’t, take 4 sips.",
-
-    "Do 20 seconds of karaoke with no lyrics showing. If you forget the words, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while holding a plank position for 30 seconds. If you don’t, take 4 sips.",
-
-    "Chug your drink while spinning in circles 10 times. If you don’t, take 4 sips.",
-
-    "Let someone take a silly photo of you. If you refuse, take 3 sips. If you don’t, take 3 sips.",
-
-    "Do a silly walk across the room. If it’s not silly enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while reciting the alphabet backwards. If you don’t, take 4 sips.",
-
-    "Do 5 cartwheels in a row. If you fail, take 5 sips. If you don’t, take 5 sips.",
-
-    "Chug your drink while performing a yoga pose for 1 minute. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing jumping jacks for 30 seconds. If you don’t, take 4 sips.",
-
-    "Create a new handshake with another player and perform it. If it’s not good enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while spinning around 5 times. If you don’t, take 4 sips.",
-
-    "Perform your best dramatic monologue for 1 minute. If it’s not dramatic enough, take 3 sips. If you don’t, take 3 sips.",
-
-    "Let someone pick a random song and make you sing it. If you refuse, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while hopping on one foot for 30 seconds. If you don’t, take 4 sips.",
-
-    "Give someone a piggyback ride for 1 minute. If you drop them or stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while reciting a tongue twister 5 times without messing up. If you don’t, take 5 sips.",
-
-    "Do a cartwheel across the room. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do your best animal impersonation for 30 seconds. If no one guesses it, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing your best dance move. Don’t stop until it’s finished. If you don’t, take 4 sips.",
-
-    "Let someone put an ice cube down your back. If you refuse, take 5 sips. If you don’t, take 5 sips.",
-
-    "Take 3 sips, then act out a scene from a romance movie. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while performing 10 squats in a row. If you don’t, take 4 sips.",
-
-    "Create and perform a short rap. If it’s not good enough, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while trying to balance a spoon on your nose for 1 minute. If you don’t, take 5 sips.",
-
-    "Do 20 push-ups in a row. If you fail, take 5 sips. If you don’t, take 5 sips.",
-
-    "Chug your drink while doing a funny walk across the room. If you don’t, take 4 sips.",
-
-    "Give someone a compliment every 10 seconds for 1 minute. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Take a funny or embarrassing photo of yourself and share it with the group. If you don’t, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while balancing on one foot for 30 seconds. If you don’t, take 4 sips.",
-
-    "Do 10 jumping jacks in a row without stopping. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while holding a plank position for 1 minute. If you don’t, take 5 sips.",
-
-    "Do a dramatic reading of a text message from your phone. If it’s not dramatic, take 3 sips. If you don’t, take 3 sips.",
-
-    "Let someone write something funny or embarrassing on your arm. If you refuse, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while attempting to juggle three objects. If you don’t, take 5 sips.",
-
-    "Let someone apply a temporary tattoo on you. If you refuse, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing a funny or awkward impression of someone in the room. If you don’t, take 4 sips.",
-
-    "Do 15 sit-ups in a row. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing your best robot dance for 1 minute. If you don’t, take 4 sips.",
-
-    "Chug your drink while making funny faces for 30 seconds. If you don’t, take 4 sips.",
-
-    "Do a funny impression of a famous singer. If no one guesses who it is, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while walking in a straight line with your eyes closed. If you don’t, take 5 sips.",
-
-    "Let someone play with your hair for 1 minute. If you don’t, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do a funny dance and let someone record it. If you don’t, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while reciting a tongue twister. If you mess up, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while holding your breath for 10 seconds. If you don’t, take 4 sips.",
-
-    "Do your best dance move and keep it going for 1 minute. If you stop, take 5 sips. If you don’t, take 5 sips.",
-
-    "Chug your drink while making a silly noise every 10 seconds for 1 minute. If you don’t, take 4 sips.",
-
-    "Imitate a famous comedian for 30 seconds. If it’s not funny, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while giving someone a piggyback ride for 1 minute. If you don’t, take 5 sips.",
-
-    "Chug your drink while trying to touch your toes for 1 minute. If you don’t, take 4 sips.",
-
-    "Do 20 seconds of karaoke with no lyrics. If you mess up, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing a handstand (or attempting one). If you don’t, take 5 sips.",
-
-    "Chug your drink while hopping on one leg for 1 minute. If you don’t, take 4 sips.",
-
-    "Do 10 squats in a row. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while trying to keep a straight face for 1 minute. If you don’t, take 4 sips.",
-
-    "Do 20 seconds of dramatic air guitar. If it’s not good enough, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing a silly walk for 30 seconds. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then give someone a back massage for 1 minute. If they don’t enjoy it, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing your best impression of a famous person. If you don’t, take 4 sips.",
-
-    "Let someone pick a random dare from the list and you must complete it. If you refuse, take 5 sips. If you don’t, take 5 sips.",
-
-    "Chug your drink while trying to say the alphabet backwards. If you don’t, take 4 sips.",
-
-    "Do a dramatic reading of a random text from your phone. If it’s not dramatic enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then give someone a high-five every 5 seconds for 1 minute. If you miss one, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while spinning in circles 10 times. If you don’t, take 5 sips.",
-
-    "Do 10 push-ups in a row. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while trying to juggle two objects. If you don’t, take 4 sips.",
-
-    "Do a funny impersonation of a movie character. If no one guesses it, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while hopping on both feet for 30 seconds. If you don’t, take 4 sips.",
-
-    "Act out a scene from a popular TV show. If it’s not convincing, take 3 sips. If you don’t, take 3 sips.",
-
-    "Take 3 sips, then do your best version of a cartwheel. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while singing a song with your mouth full. If you don’t, take 5 sips.",
-
-    "Let someone draw a funny doodle on your face with a marker. If you refuse, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while trying to touch your toes for 1 minute. If you don’t, take 4 sips.",
-
-    "Take 3 sips and then tell an embarrassing story. If it’s not embarrassing enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do a funny dance for 30 seconds. If it’s not funny enough, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while trying to keep a straight face for 1 minute. If you don’t, take 4 sips.",
-
-    "Take 5 sips, then perform a scene from your favorite childhood movie. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing 10 squats in a row. If you don’t, take 4 sips.",
-
-    "Let someone apply a silly sticker to your forehead. If you refuse, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while pretending to be a statue for 1 minute. If you don’t, take 4 sips.",
-
-    "Do a dramatic air guitar performance for 30 seconds. If it’s not good, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while balancing a book on your head for 30 seconds. If you don’t, take 4 sips.",
-
-    "Take 3 sips and then act out your best robot dance. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while hopping on one foot for 30 seconds. If you don’t, take 4 sips.",
-
-    "Give someone a 1-minute massage. If they don’t enjoy it, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do 10 jumping jacks in a row without stopping. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while attempting to spin in place for 30 seconds. If you don’t, take 4 sips.",
-
-    "Do your best impression of a famous singer for 1 minute. If it’s not good enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while performing 10 push-ups. If you don’t, take 4 sips.",
-
-    "Let someone choose a random song and you have to sing it. If you refuse, take 4 sips. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then imitate an animal for 30 seconds. If it’s not funny enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing your best moonwalk for 30 seconds. If you don’t, take 4 sips.",
-
-    "Let someone give you a silly nickname for the rest of the game. If you don’t, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing 10 sit-ups in a row. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then perform a stand-up comedy routine for 1 minute. If it’s not funny, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while balancing on one leg for 1 minute. If you don’t, take 4 sips.",
-
-    "Do your best impersonation of a cartoon character for 1 minute. If no one guesses it, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while performing a silly walk across the room. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then tell a joke. If no one laughs, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing a somersault or roll across the floor. If you don’t, take 5 sips.",
-
-    "Let someone give you a funny hairstyle for 1 minute. If you refuse, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do 20 jumping jacks in a row. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while performing the floss dance for 1 minute. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing the \"chicken dance\" for 30 seconds. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then talk in a funny accent for 1 minute. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing the \"moonwalk\" for 30 seconds. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then mimic someone in the room for 1 minute. If no one guesses, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while spinning in place for 1 minute. If you don’t, take 4 sips.",
-
-    "Do 10 sit-ups in a row. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while performing a handstand (or attempting one). If you don’t, take 5 sips.",
-
-    "Chug your drink while pretending to be a waiter and taking orders from everyone in the room for 1 minute. If you don’t, take 4 sips.",
-
-    "Do a dramatic reading of your last text message. If it’s not dramatic enough, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while trying to balance on one foot for 30 seconds. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then walk around the room like a cat. If no one laughs, take 4 sips. If you don’t, take 4 sips.",
-
-    "Do 20 jumping jacks in a row. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while holding your breath for 10 seconds. If you don’t, take 4 sips.",
-
-    "Do a funny dance for 30 seconds. If no one laughs, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while spinning in place for 30 seconds. If you don’t, take 4 sips.",
-
-    "Act out a scene from a soap opera. If it’s not dramatic enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while hopping on one foot for 1 minute. If you don’t, take 4 sips.",
-
-    "Take 5 sips, then do your best impression of a famous movie character. If no one guesses, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while holding a plank position for 30 seconds. If you don’t, take 5 sips.",
-
-    "Let someone write something funny on your forehead with a marker. If you refuse, take 3 sips. If you don’t, take 3 sips.",
-
-    "Take 3 sips, then give someone a 1-minute massage. If they don’t like it, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while trying to balance a spoon on your nose for 1 minute. If you don’t, take 4 sips.",
-
-    "Do 10 sit-ups in a row. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while reciting your favorite nursery rhyme. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then do a cartwheel. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while spinning in a circle and trying to catch a ball. If you don’t, take 5 sips.",
-
-    "Do your best animal impersonation for 30 seconds. If no one guesses, take 3 sips. If you don’t, take 3 sips.",
-
-    "Chug your drink while doing 10 push-ups. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then give someone your best kiss-on-the-cheek impression. If it’s not good, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while hopping across the room like a bunny. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then do your best robot dance for 1 minute. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while pretending to be a penguin for 1 minute. If you don’t, take 4 sips.",
-
-    "Do a dramatic reenactment of your last dream. If it’s not dramatic enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while balancing on your knees for 1 minute. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then sing a random song from a commercial. If no one guesses it, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while pretending to be a mannequin for 1 minute. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then imitate a famous celebrity for 1 minute. If no one guesses, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while hopping on both feet for 30 seconds. If you don’t, take 4 sips.",
-
-    "Do 10 squats while holding your drink. If you spill it, take 5 sips. If you don’t, take 5 sips.",
-
-    "Take 3 sips, then do a backflip (or attempt one). If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while walking in a straight line with your eyes closed. If you don’t, take 4 sips.",
-
-    "Do 15 jumping jacks in a row. If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while singing the \"Happy Birthday\" song in a high-pitched voice. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then tell a story where every sentence must start with the letter “S.” If you fail, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing your best moonwalk for 1 minute. If you don’t, take 4 sips.",
-
-    "Do a funny impression of your favorite celebrity for 1 minute. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Take 5 sips, then dance like no one is watching for 1 minute. If you stop, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while hopping like a frog for 30 seconds. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then mimic the person to your left for 1 minute. If they guess it’s you, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing 10 sit-ups. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then make your best “surprised” face for 1 minute. If it’s not convincing, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing 10 squats. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then do 20 seconds of funny impressions of famous people. If it’s not good, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while walking backwards across the room. If you don’t, take 4 sips.",
-
-    "Do your best dance move for 1 minute. If it’s not good enough, take 4 sips. If you don’t, take 4 sips.",
-
-    "Take 3 sips, then give a random compliment to everyone in the room. If it’s not sincere, take 4 sips. If you don’t, take 4 sips.",
-
-    "Chug your drink while doing a funny walk for 30 seconds. If you don’t, take 4 sips.",
+    "Chug a drink while standing on one leg. If you spill, take 7 sips.",
+    "Post a funny, embarrassing video of yourself on your social media. If not, take 8 sips.",
+    "Call a random contact in your phone and sing 'Happy Birthday' to them. If not, take 7 sips.",
+    "Do your best dance routine for 30 seconds. If not, take 6 sips.",
+    "Let someone else pick a tattoo design for you and draw it on your body. If you refuse, take 7 sips.",
+    "Try to lick your elbow. If you fail, take 5 sips.",
+    "Find the nearest hat and wear it for the rest of the game. If not, take 6 sips.",
+    "Speak in an accent of your choice for the next 3 rounds. If not, take 6 sips.",
+    "Act like a monkey for the next 3 minutes. If you stop, take 6 sips.",
+    "Walk like a runway model around the room. If you stumble, take 7 sips.",
+    "Take a shot of hot sauce. If you refuse, take 7 sips.",
+    "Have someone else choose an embarrassing name for you, and you must use it for the next 5 minutes. If not, take 6 sips.",
+    "Let someone else send a message to your last text conversation. If not, take 8 sips.",
+    "Speak only in questions for the next 5 minutes. If not, take 7 sips.",
+    "Let someone else choose your outfit for the next hour. If you refuse, take 7 sips.",
+    "Do your best impression of a zombie for 1 minute. If not, take 6 sips.",
+    "Pretend you're a news anchor and deliver a 30-second news report about something ridiculous. If not, take 6 sips.",
+    "Pretend to be a cat and meow every time you speak for the next 10 minutes. If not, take 6 sips.",
+    "Pretend to be a waiter/waitress and take everyone's orders. If not, take 6 sips.",
+    "Get down on all fours and crawl around the room. If you don’t, take 6 sips.",
+    "Take a shot while standing on one foot. If you spill, take 8 sips.",
+    "Talk in rhymes for the next 3 rounds. If not, take 7 sips.",
+    "Let someone else give you a silly nickname that you must use for the rest of the game. If not, take 6 sips.",
+    "Let the person to your left draw something on your face. If not, take 7 sips.",
+    "Take a picture of yourself making the most ridiculous face possible and send it to your group chat. If not, take 7 sips.",
+    "Do 10 squats while holding your drink in one hand. If you spill, take 8 sips.",
+    "Call your mom and tell her you love her. If not, take 6 sips.",
+    "Pretend to be a robot for the next 2 minutes. If not, take 6 sips.",
+    "Try to touch your toes with your elbows for 1 minute. If you fail, take 6 sips.",
+    "Post a status update that says ‘I’m the life of the party!’ If not, take 7 sips.",
+    "Let someone else choose a crazy hairstyle for you. If you refuse, take 7 sips.",
+    "Do your best impression of a chicken. If not, take 6 sips.",
+    "Put on socks and slide across the floor like you're skating. If not, take 7 sips.",
+    "Walk around the room with a pillow on your head. If you drop it, take 6 sips.",
+    "Make a snow angel on the floor, no matter where you are. If not, take 7 sips.",
+    "Chug a drink. If you refuse, take 5 sips.",
+    "Call a random contact and sing 'Happy Birthday' to them. If not, take 4 sips.",
+    "Do a dramatic reading of your last text conversation. If not, take 4 sips.",
+    "Speak in movie quotes for the next 3 rounds. If not, take 4 sips.",
+    "Imitate a famous animal (e.g., lion, dog, elephant) for 1 minute. If not, take 5 sips.",
+    "Challenge someone to a staring contest. The loser takes 4 sips.",
+    "Balance a spoon on your nose for 1 minute. If you fail, take 5 sips.",
+    "Do 10 jumping jacks while singing your favorite song. If you stop, take 4 sips.",
+    "Create a rap on the spot about the people in the room. If you refuse, take 5 sips.",
+    "Send a voice message to your best friend singing a random song. If not, take 5 sips.",
+    "Pretend to be a waiter and serve everyone at the table a drink. If not, take 4 sips.",
+    "Create and perform a 30-second commercial for a random product. If not, take 5 sips.",
+    "Find the nearest piece of clothing and wear it as a hat. If not, take 4 sips.",
+    "Get a random person in the room to draw something on your face. If not, take 5 sips.",
+    "Imitate a famous dance move for 30 seconds. If not, take 4 sips.",
+    "Pretend to be a magician and perform a 'magic trick.' If not, take 5 sips.",
+    "Let someone else choose a song for you to sing. If not, take 4 sips.",
+    "Create a human pyramid with the group. If it falls, take 5 sips.",
+    "Give someone a foot massage. If not, take 4 sips.",
+    "Take a picture of yourself doing a silly pose and post it on your story. If not, take 5 sips.",
+    "Imitate your best friend or the person to your left for 30 seconds. If not, take 4 sips.",
+    "Talk in rhyme for the next 3 minutes. If not, take 5 sips.",
+    "Do your best impression of a baby for 1 minute. If not, take 4 sips.",
+    "Pretend to be a statue for 2 minutes. If you move, take 5 sips.",
+    "Put on a blindfold and guess who is sitting across from you. If you fail, take 4 sips.",
+    "Start a chant and get everyone to join in. If no one joins, take 4 sips.",
+    "Act out your favorite TV show character for 1 minute. If not, take 5 sips.",
+    "Call a friend and ask them to say something random. Repeat it 3 times in a row. If not, take 4 sips.",
+    "Send an embarrassing voice message to your crush or ex. If not, take 5 sips.",
+    "Take a shot of hot sauce or lemon juice. If you refuse, take 5 sips.",
+    "Do a dramatic slow-motion walk for 30 seconds. If you stop, take 5 sips.",
+    "Let the person to your right choose an embarrassing item of clothing for you to wear for the next 10 minutes. If not, take 5 sips.",
+    "Run around the room like you’re in a race. If not, take 4 sips.",
+    "Tell the group the most embarrassing thing you've ever done in public. If not, take 5 sips.",
+    "Act like you're underwater for the next 2 minutes. If you stop, take 4 sips.",
+    "Walk like a penguin for 1 minute. If not, take 4 sips.",
+    "Make an awkward noise every time you speak for the next 5 minutes. If not, take 5 sips.",
+    "Imitate the person to your right for the next 2 rounds. If you fail, take 4 sips.",
+    "Find a random item in the room and use it as a prop for your 1-minute performance. If not, take 5 sips.",
+    "Give a dramatic monologue like you’re in a Shakespeare play. If not, take 5 sips.",
+    "Chug a drink of your choice. If you refuse, take 5 sips.",
+    "Do 20 sit-ups. If you fail, take 4 sips.",
+    "Text a random emoji to your mom. If you don’t, take 5 sips.",
+    "Try to juggle 3 objects. If you fail, take 4 sips.",
+    "Talk in a pirate accent for the next 5 minutes. If not, take 5 sips.",
+    "Let someone else write something on your face with a marker. If not, take 5 sips.",
+    "Create and perform a 30-second rap about someone in the group. If not, take 5 sips.",
+    "Do your best impression of a celebrity of your choice for 1 minute. If not, take 5 sips.",
+    "Take a shot of whatever drink is closest to you. If you refuse, take 5 sips.",
+    "Tell the group your most embarrassing childhood story. If not, take 5 sips.",
+    "Act like you're a superhero for 1 minute. If not, take 5 sips.",
+    "Give a dramatic reading of your favorite meme. If not, take 5 sips.",
+    "Call someone and tell them you're having the time of your life. If not, take 4 sips.",
+    "Pretend to be a mannequin for 1 minute. If you move, take 5 sips.",
+    "Make a silly face and hold it for 30 seconds. If you break, take 4 sips.",
+    "Dance with no music for 1 minute. If you stop, take 5 sips.",
+    "Do 10 pushups with your drink in hand. If you spill, take 5 sips.",
+    "Send a voice memo of you singing 'Twinkle Twinkle Little Star.' If not, take 4 sips.",
+    "Swap shoes with someone at the table. If not, take 4 sips.",
+    "Pretend to be a professional wrestler and challenge someone to a match. If not, take 5 sips.",
+    "Chug a drink while spinning around 5 times. If you spill, take 5 sips.",
+    "Walk around the room like a runway model for 1 minute. If you stop, take 4 sips.",
+    "Take a picture with someone while pulling a funny face and post it to your story. If not, take 5 sips.",
+    "Put your socks on your hands and try to clap. If not, take 4 sips.",
+    "Pretend you're a robot for the next 2 rounds. If not, take 5 sips.",
+    "Do an impression of your least favorite celebrity for 1 minute. If not, take 5 sips.",
+    "Post a picture of yourself wearing something ridiculous. If not, take 5 sips.",
+    "Try to touch your nose with your tongue. If you fail, take 4 sips.",
+    "Do your best impression of a chicken for 1 minute. If not, take 4 sips.",
+    "Talk in a different accent for the next 5 minutes. If not, take 5 sips.",
+    "Do a handstand for 10 seconds. If you can’t, take 5 sips.",
+    "Find something in the room to use as a hat and wear it for the rest of the game. If not, take 5 sips.",
+    "Do 10 squats in a row. If you can’t, take 4 sips.",
+    "Post a silly video of yourself dancing to the group chat. If not, take 5 sips.",
+    "Give someone a compliment in the most awkward way possible. If you can’t, take 4 sips.",
+    "Try to name 5 different types of pasta. If you fail, take 4 sips.",
+    "Start a slow-motion dance and get others to join in. If no one joins, take 5 sips.",
+    "Pretend you're a famous actor giving an Oscar acceptance speech. If not, take 5 sips.",
+    "Make a silly face for the next 2 minutes. If you break, take 5 sips.",
+    "Pretend you're in a music video for 1 minute. If you stop, take 5 sips.",
+    "Act out a scene from your favorite movie. If not, take 4 sips.",
+    "Do your best impression of a baby crying for 1 minute. If not, take 4 sips.",
+    "Chug a drink of your choice. If you refuse, take 5 sips.",
+    "Do your best impersonation of a celebrity for 1 minute. If not, take 5 sips.",
+    "Send a random emoji to your last conversation. If not, take 4 sips.",
+    "Post a silly selfie to your story. If not, take 5 sips.",
+    "Talk like a robot for the next 3 rounds. If not, take 5 sips.",
+    "Do 20 jumping jacks in a row. If not, take 5 sips.",
+    "Dance like nobody's watching for 1 minute. If not, take 4 sips.",
+    "Give someone else a piggyback ride for 10 seconds. If not, take 5 sips.",
+    "Do 10 sit-ups while holding a drink in each hand. If you spill, take 5 sips.",
+    "Walk around the room like a crab for 1 minute. If you stop, take 4 sips.",
+    "Let someone give you a silly hairstyle. If not, take 5 sips.",
+    "Do your best chicken dance for 1 minute. If not, take 4 sips.",
+    "Try to do a cartwheel. If not, take 5 sips.",
+    "Act like you're in a horror movie for the next 2 minutes. If not, take 5 sips.",
+    "Try to touch your toes without bending your knees. If you can't, take 5 sips.",
+    "Imitate a famous animal (like a lion or dog) for 1 minute. If not, take 4 sips.",
+    "Let someone write a silly word on your forehead. If not, take 5 sips.",
+    "Do a dramatic reading of a song lyric. If not, take 5 sips.",
+    "Pretend to be a news anchor reporting something ridiculous. If not, take 5 sips.",
+    "Chug a drink while standing on one leg. If you spill, take 5 sips.",
+    "Pretend you're a cat for the next 3 rounds. If not, take 5 sips.",
+    "Do 5 push-ups or sit-ups. If not, take 4 sips.",
+    "Post a funny quote from the game on your social media. If not, take 5 sips.",
+    "Speak in rhymes for the next 2 rounds. If not, take 5 sips.",
+    "Call a random contact and say ‘I love you’ in the most dramatic way. If not, take 5 sips.",
+    "Pretend to be a waiter/waitress and take everyone's orders. If not, take 5 sips.",
+    "Make a snow angel on the floor. If not, take 4 sips.",
+    "Put your socks on your hands and clap. If not, take 4 sips.",
+    "Create and perform a 30-second dance routine. If not, take 5 sips.",
+    "Take a picture of yourself doing something ridiculous and post it. If not, take 5 sips.",
+    "Talk like you’re underwater for the next 2 rounds. If not, take 5 sips.",
+    "Pretend you're a robot for the next 3 minutes. If not, take 5 sips.",
+    "Send a voice message of you singing your favorite song to the group. If not, take 4 sips.",
+    "Let someone else choose an embarrassing nickname for you. If not, take 5 sips.",
+    "Post a picture of your breakfast/lunch/dinner on social media, even if it’s weird. If not, take 5 sips.",
+    "Act like you're on a game show for 1 minute. If not, take 5 sips.",
+    "Do your best impression of a baby crying for 1 minute. If not, take 5 sips.",
+    "Try to juggle 3 items. If you fail, take 5 sips.",
+    "Take a shot of hot sauce or lemon juice. If not, take 5 sips.",
+    "Do a dramatic slow-motion walk around the room. If you stop, take 5 sips.",
+    "Make an animal noise every time you speak for the next 3 minutes. If not, take 5 sips.",
+    "Let someone else draw a mustache on your face. If not, take 5 sips.",
+    "Post an embarrassing throwback picture on your social media. If not, take 5 sips.",
+    "Dance like no one is watching for 1 minute. If not, take 4 sips.",
+    "Do 10 squats while holding your drink. If you spill, take 5 sips.",
+    "Make up a funny song about the group and sing it. If not, take 5 sips.",
+    "Act out a scene from your favorite movie. If not, take 4 sips.",
+    "Pretend you're a statue for 2 minutes. If you move, take 5 sips.",
+    "Pretend to be a superhero for the next 2 minutes. If not, take 5 sips.",
+    "Send a message to your crush that says ‘I’m having a great time!’ If not, take 5 sips.",
+    "Take a picture of yourself in a silly pose and send it to the group chat. If not, take 4 sips.",
+    "Talk in a British accent for the next 3 minutes. If not, take 5 sips.",
+    "Do a funny dance for 1 minute without stopping. If you stop, take 5 sips.",
+    "Post a random emoji to your social media with no context. If not, take 5 sips.",
+    "Let someone else choose a silly song for you to sing. If not, take 4 sips.",
+    "Act like you're a waiter/waitress and give everyone an imaginary drink. If not, take 5 sips.",
+    "Pretend to be a ballerina for the next 2 minutes. If not, take 5 sips.",
+    "Speak like a pirate for the next 5 minutes. If not, take 5 sips.",
+    "Do 10 push-ups while holding your drink in one hand. If you spill, take 5 sips.",
+    "Pretend you're a famous actor/actress receiving an award. If not, take 5 sips.",
+    "Post a weird and silly status update to your social media. If not, take 5 sips.",
+    "Do a cartwheel across the room. If you can't, take 5 sips.",
+    "Try to touch your nose with your tongue. If you can't, take 4 sips.",
+    "Imitate a famous historical figure for 1 minute. If not, take 5 sips.",
+    "Act out your favorite animal for the next 2 minutes. If not, take 5 sips.",
+    "Make a funny face and hold it for 1 minute. If you break, take 5 sips.",
+    "Pretend you're a teacher giving a lesson for 2 minutes. If not, take 5 sips.",
+    "Take a funny selfie and send it to the group. If not, take 4 sips.",
+    "Pretend to be a waiter/waitress and serve everyone imaginary drinks. If not, take 5 sips.",
+    "Do your best impression of a baby for 1 minute. If not, take 4 sips.",
+    "Let someone else create a new nickname for you, and you have to use it for the rest of the game. If not, take 5 sips.",
+    "Try to stand on one leg for 1 minute. If you fail, take 5 sips.",
+    "Make a silly face for 1 minute. If you break the face, take 4 sips.",
+    "Pretend to be a famous movie character for 1 minute. If not, take 5 sips.",
+    "Do a dramatic reading of a random text message you’ve received. If not, take 4 sips.",
+    "Pick someone to impersonate for the next 3 rounds. If you fail, take 5 sips.",
+    "Do your best impression of a monkey for 1 minute. If not, take 4 sips.",
+    "Sing the chorus of a song as loudly as you can. If not, take 5 sips.",
+    "Post a funny photo of yourself to your story. If not, take 5 sips.",
+    "Do a cartwheel across the room. If not, take 5 sips.",
+    "Wear socks on your hands for the next 5 minutes. If not, take 5 sips.",
+    "Do 10 burpees. If you fail, take 5 sips.",
+    "Pretend you’re a famous actor accepting an award for 2 minutes. If not, take 5 sips.",
+    "Take a funny selfie and send it to the group chat. If not, take 4 sips.",
+    "Dance like you're at a wedding reception for 1 minute. If not, take 5 sips.",
+    "Call a random person and ask them if they want to join the game. If not, take 5 sips.",
+    "Talk in rhymes for the next 2 minutes. If not, take 5 sips.",
+    "Send a voice memo to your best friend singing 'Happy Birthday.' If not, take 4 sips.",
+    "Make up a song about the group and perform it. If not, take 5 sips.",
+    "Act like you're underwater for the next 1 minute. If not, take 4 sips.",
+    "Create a funny dance and get everyone to join in. If no one joins, take 5 sips.",
+    "Post something completely random on your story. If not, take 5 sips.",
+    "Imitate your favorite animal for 1 minute. If not, take 5 sips.",
+    "Do a dramatic interpretation of your last text message. If not, take 4 sips.",
+    "Act like a famous chef and cook a ridiculous imaginary dish for 2 minutes. If not, take 5 sips.",
+    "Start a conversation with someone as if they’re a famous celebrity. If not, take 5 sips.",
+    "Make up a joke and tell it to the group. If no one laughs, take 5 sips.",
+    "Try to juggle 3 random objects. If you fail, take 5 sips.",
+    "Do your best impression of a robot for 1 minute. If not, take 4 sips.",
+    "Send an embarrassing video of yourself to the group chat. If not, take 5 sips.",
+    "Pretend you’re in a commercial for a silly product. If not, take 5 sips.",
+    "Pretend to be a statue for 2 minutes. If you move, take 5 sips.",
+    "Walk around the room like a zombie for 1 minute. If not, take 5 sips.",
+    "Tell an embarrassing story about yourself. If you refuse, take 5 sips.",
+    "Act out a random animal sound and make everyone guess it. If they fail, take 5 sips.",
+    "Call your mom and tell her you love her in the most dramatic way possible. If not, take 5 sips.",
+    "Pretend you're a news anchor and report something ridiculous. If not, take 5 sips.",
+    "Give a compliment to everyone in the room. If you miss one, take 5 sips.",
+    "Do 10 jumping jacks while singing the alphabet. If you fail, take 5 sips.",
+    "Try to imitate a famous politician for 1 minute. If not, take 5 sips.",
+    "Do an impression of a baby trying to speak for 1 minute. If not, take 5 sips.",
+    "Imitate the person to your left for 2 minutes. If not, take 4 sips.",
+    "Do 10 sit-ups in a row. If you fail, take 5 sips.",
+    "Pretend to be a news reporter and interview someone in the group. If not, take 5 sips.",
+    "Start a conga line with the group. If no one joins, take 5 sips.",
+    "Talk like a pirate for the next 2 minutes. If not, take 5 sips.",
+    "Post something weird and funny on your Instagram story. If not, take 5 sips.",
+    "Imitate a famous superhero for 1 minute. If not, take 5 sips.",
+    "Pretend you're a famous singer and give a concert. If not, take 5 sips.",
+    "Act like you're in a horror movie for the next 2 minutes. If not, take 5 sips.",
+    "Try to do a handstand. If you fail, take 5 sips.",
+    "Let someone else pick an embarrassing item of clothing for you to wear for the next round. If not, take 5 sips.",
+    "Walk backwards for 2 minutes. If you stop, take 5 sips.",
+    "Do your best impression of a person from another country for 1 minute. If not, take 5 sips.",
+    "Pretend you're a professional dancer and perform a routine. If not, take 5 sips.",
+    "Try to do a split. If you fail, take 5 sips.",
+    "Act out a scene from your favorite movie. If not, take 4 sips.",
+    "Take a shot of something spicy. If not, take 5 sips.",
+    "Post a ridiculous TikTok dance. If not, take 5 sips.",
+    "Talk in a deep voice for the next 3 rounds. If not, take 5 sips.",
+    "Do a quick fashion show with the weirdest outfit possible. If not, take 5 sips."
 ]
