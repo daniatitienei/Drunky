@@ -21,35 +21,40 @@ class AppSession: ObservableObject {
             title: "Getting Started",
             subtitle: "A fun and easy introduction to warm up the party! 🎉",
             dares: GettingStartedDares,
-            icon: "🍺"
+            icon: "🍺",
+            requiresPremium: false
         ),
         GameModeModel(
             mode: .Crazy,
             title: "Crazy",
             subtitle: "Wild dares and bold truths for those who fear nothing! 🔥",
             dares: CrazyDares,
-            icon: "🤪"
+            icon: "🤪",
+            requiresPremium: false
         ),
         GameModeModel(
             mode: .Roleplay,
             title: "Roleplay",
             subtitle: "Step into character and act out spicy scenarios! 🎭",
             dares: RoleplayDares,
-            icon: "👮‍♂️"
+            icon: "👮‍♂️",
+            requiresPremium: true
         ),
         GameModeModel(
             mode: .Spicy,
             title: "Spicy",
             subtitle: "Flirty and seductive challenges to heat things up! ❤️‍🔥",
             dares: SpicyDares,
-            icon: "🫦"
+            icon: "🫦",
+            requiresPremium: true
         ),
         GameModeModel(
             mode: .Blackout,
             title: "Blackout",
             subtitle: "Extreme dares and risky truths—only for the fearless! 🍻",
             dares: BlackoutDares,
-            icon: "😵"
+            icon: "😵",
+            requiresPremium: true
         )
     ]
     

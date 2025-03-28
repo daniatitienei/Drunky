@@ -6,6 +6,9 @@
 //
 
 import SwiftUI
+import RevenueCatUI
+import RevenueCat
+import Combine
 
 struct GameModeScreen: View {
     
@@ -13,6 +16,11 @@ struct GameModeScreen: View {
     
     @State var gameMode: GameModeModel? = nil
     @State var shouldNavigate: Bool = false
+    
+    @State var isPaywallVisible: Bool = false
+    @AppStorage("hasPro") var hasPro: Bool = false
+    
+    @StateObject private var purchaseViewModel = PurchaseViewModel()
     
     var body: some View {
         ZStack {
@@ -34,17 +42,37 @@ struct GameModeScreen: View {
                 DareScreen(gameMode: gameMode)
             }
         }
-        .padding(.horizontal)
+        .sheet(isPresented: $isPaywallVisible) {
+            PaywallView(displayCloseButton: true)
+        }
+        .padding(.horizontal, 40)
+        .padding(.vertical)
         .navigationBarBackButtonHidden()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color.darkBlue)
+        .onChange(of: purchaseViewModel.isPurchased) {
+            print("has subscription \(purchaseViewModel.isPurchased)")
+            hasPro = purchaseViewModel.isPurchased
+        }
     }
     
     @ViewBuilder
     func GameModeCard(gameMode: GameModeModel) -> some View {
         Button {
-            self.gameMode = gameMode
-            shouldNavigate = true
+            if gameMode.requiresPremium {
+                Purchases.shared.getCustomerInfo { (customerInfo, error) in
+                    if customerInfo?.entitlements.active.keys.contains("pro") == false {
+                        self.isPaywallVisible = true
+                    } else {
+                        self.hasPro = true
+                        self.gameMode = gameMode
+                        shouldNavigate = true
+                    }
+                }
+            } else {
+                self.gameMode = gameMode
+                shouldNavigate = true
+            }
         } label: {
             HStack(spacing: 20) {
                 ZStack {
@@ -54,7 +82,7 @@ struct GameModeScreen: View {
                 .frame(width: 64, height: 64, alignment: .center)
                 
                 VStack(alignment: .leading) {
-                    Text(gameMode.title)
+                    Text(gameMode.requiresPremium && !hasPro ? gameMode.title + " 🔒" : gameMode.title)
                         .font(.semiBold(size: 16))
                         .foregroundStyle(Color.white)
                     
@@ -72,4 +100,23 @@ struct GameModeScreen: View {
 
 #Preview {
     GameModeScreen()
+}
+
+class PurchaseViewModel: ObservableObject {
+    @Published var isPurchased: Bool = false
+
+    init() {
+        // Start listening to customer info changes asynchronously
+        Task {
+            await listenToCustomerInfoUpdates()
+        }
+    }
+    
+    // Async function to listen to customer info updates
+    private func listenToCustomerInfoUpdates() async {
+        for await customerInfo in Purchases.shared.customerInfoStream {
+            // Check if the user has the entitlement
+            self.isPurchased = customerInfo.entitlements.active.keys.contains("pro")
+        }
+    }
 }

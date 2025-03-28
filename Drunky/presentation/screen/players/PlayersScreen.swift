@@ -13,6 +13,8 @@ struct PlayersScreen: View {
     @StateObject var appSession = AppSession.shared
     
     @State var shouldNavigate: Bool = false
+    
+    @FocusState var isFieldFocused: Bool
      
     var body: some View {
         ZStack {
@@ -40,7 +42,6 @@ struct PlayersScreen: View {
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topLeading)
             
-            
             VStack {
                 FilledTextField(
                     text: $nameValue,
@@ -52,6 +53,12 @@ struct PlayersScreen: View {
                         }
                     }
                 )
+                .focused($isFieldFocused)
+                .onAppear {
+                    DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                        isFieldFocused = true
+                    }
+                }
                 .padding(.bottom, 10)
                 
                 RoundedButton(
@@ -85,10 +92,16 @@ struct PlayersScreen: View {
             }
             .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottom)
         }
-        .padding(.horizontal)
+        .padding(.horizontal, 20)
+        .padding(.vertical)
         .navigationBarBackButtonHidden()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color.darkBlue)
+        .onTapGesture {
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                isFieldFocused = false
+            }
+        }
         .navigationDestination(isPresented: $shouldNavigate) {
             GameModeScreen()
         }

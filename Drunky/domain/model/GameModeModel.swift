@@ -11,4 +11,5 @@ struct GameModeModel {
     let subtitle: String
     let dares: [String]
     let icon: String
+    let requiresPremium: Bool
 }

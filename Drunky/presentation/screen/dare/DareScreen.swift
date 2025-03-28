@@ -6,6 +6,8 @@
 //
 
 import SwiftUI
+import RevenueCatUI
+import RevenueCat
 
 struct DareScreen: View {
     
@@ -16,7 +18,9 @@ struct DareScreen: View {
     @State var currentPlayerIndex = 0
     
     @State var roundsLeft: Int = AppSession.shared.players.count * 15
-
+    @AppStorage("hasPro") var hasPro: Bool = false
+    @State var isPaywallVisible: Bool = false
+    
     @Environment(\.dismiss) private var dismiss
     
     var body: some View {
@@ -32,9 +36,10 @@ struct DareScreen: View {
                 .frame(maxHeight: .infinity, alignment: .top)
                 
                 Text(dare)
-                    .font(.extraBold(size: 26))
+                    .font(.semiBold(size: 22))
                     .foregroundStyle(.white)
                     .multilineTextAlignment(.center)
+                    .padding(.horizontal)
                 
                 ZStack {
                     RoundedButton(onClick: nextTurn) {
@@ -52,7 +57,11 @@ struct DareScreen: View {
                 dare = gameMode.dares.randomElement() ?? ""
             }
         }
-        .padding(.horizontal)
+        .sheet(isPresented: $isPaywallVisible) {
+            PaywallView(displayCloseButton: true)
+        }
+        .padding(.horizontal, 20)
+        .padding(.vertical)
         .navigationBarBackButtonHidden()
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color.darkBlue)
@@ -71,6 +80,11 @@ struct DareScreen: View {
                 .font(.bold(size: 20))
                 .foregroundStyle(.white)
                 .multilineTextAlignment(.center)
+        }
+        .onAppear {
+            if !hasPro {
+                isPaywallVisible = true
+            }
         }
         
         ZStack {

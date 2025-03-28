@@ -6,6 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		6F3E43142D96AE7B000159C5 /* RevenueCat in Frameworks */ = {isa = PBXBuildFile; productRef = 6F3E43132D96AE7B000159C5 /* RevenueCat */; };
+		6F3E43162D96AE7B000159C5 /* RevenueCatUI in Frameworks */ = {isa = PBXBuildFile; productRef = 6F3E43152D96AE7B000159C5 /* RevenueCatUI */; };
+		6FCCEFBE2D96DC7000AEDDF6 /* Purchases.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 6FCCEFBD2D96DC7000AEDDF6 /* Purchases.storekit */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		6F3E413C2D958455000159C5 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +33,7 @@
 		6F3E412B2D958453000159C5 /* Drunky.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drunky.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F3E413B2D958455000159C5 /* DrunkyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrunkyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F3E41452D958455000159C5 /* DrunkyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DrunkyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6FCCEFBD2D96DC7000AEDDF6 /* Purchases.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Purchases.storekit; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -65,6 +72,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F3E43162D96AE7B000159C5 /* RevenueCatUI in Frameworks */,
+				6F3E43142D96AE7B000159C5 /* RevenueCat in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,6 +97,7 @@
 		6F3E41222D958453000159C5 = {
 			isa = PBXGroup;
 			children = (
+				6FCCEFBD2D96DC7000AEDDF6 /* Purchases.storekit */,
 				6F3E412D2D958453000159C5 /* Drunky */,
 				6F3E413E2D958455000159C5 /* DrunkyTests */,
 				6F3E41482D958455000159C5 /* DrunkyUITests */,
@@ -125,6 +135,8 @@
 			);
 			name = Drunky;
 			packageProductDependencies = (
+				6F3E43132D96AE7B000159C5 /* RevenueCat */,
+				6F3E43152D96AE7B000159C5 /* RevenueCatUI */,
 			);
 			productName = Drunky;
 			productReference = 6F3E412B2D958453000159C5 /* Drunky.app */;
@@ -208,6 +220,9 @@
 			);
 			mainGroup = 6F3E41222D958453000159C5;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				6F3E43122D96AE7B000159C5 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */,
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 6F3E412C2D958453000159C5 /* Products */;
 			projectDirPath = "";
@@ -225,6 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6FCCEFBE2D96DC7000AEDDF6 /* Purchases.storekit in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,11 +429,14 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Drunky/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Drunky;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -443,11 +462,14 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Drunky/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Drunky;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 17.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -573,6 +595,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6F3E43122D96AE7B000159C5 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/RevenueCat/purchases-ios-spm.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.20.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6F3E43132D96AE7B000159C5 /* RevenueCat */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6F3E43122D96AE7B000159C5 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCat;
+		};
+		6F3E43152D96AE7B000159C5 /* RevenueCatUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6F3E43122D96AE7B000159C5 /* XCRemoteSwiftPackageReference "purchases-ios-spm" */;
+			productName = RevenueCatUI;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 6F3E41232D958453000159C5 /* Project object */;
 }
